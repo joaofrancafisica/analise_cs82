@@ -1,0 +1,79 @@
+#Chi2tot: 0.015077
+#Chi2pos: 0.015077
+#Chi2_vel: 0.000000
+#Chi2_mass: 0.000000
+#Chi2formex: 0.000000
+#Chi2formey: 0.000000
+#Chi2l: 0.000000
+#log(Evidence): 0.850876
+runmode
+	reference     3 24.163145 0.138442
+	image     1 multfile.in
+	inverse   3 0.100000 2000
+	end
+image
+	multfile    1 multfile.in
+	forme       -1
+	sigposArcsec   0.200000
+	end
+grille
+	nombre      30
+	polaire     0
+	nlentille   1
+	nlens_opt   1
+	end
+source
+	z_source     0.800000
+	end
+potentiel O1
+	profil       1
+	x_centre     0.096776
+	y_centre     -0.033563
+	ellipticite     0.172373
+	angle_pos       -0.140348
+	v_disp     434.003028
+	z_lens     0.3440
+	end
+limit O1
+	x_centre     3 0.061595 0.061595 0.010000
+	y_centre     3 -0.045509 0.045509 0.010000
+	ellipticite     3 0.234398 0.162180 0.000000
+	angle_pos     3 -2.034591 2.034591 0.100000
+	v_disp    3 434.322199 0.909538 1.000000
+	end
+cline
+	nplan    1 1.000000 
+	dmax     13.500000
+	algorithm   MARCHINGSQUARES
+	limitHigh   1.0
+	limitLow    0.100000
+	end
+grande
+	iso         0 0 1.000000 0.000000 0.000000
+	name        best
+	profil      0 0
+	contour     0 0
+	large_dist  2.000000
+	end
+cosmologie
+	model       1
+	H0         70.000000
+	omegaM     0.300000
+	omegaX     0.700000
+	omegaK     0.
+	wX         -1.000000
+	wa         0.000000
+	end
+cosmolimit
+	omegaM		0 0.000000 0.000000
+	omegaX		0 0.000000 0.000000
+	wX		0 0.000000 0.000000
+	wa 	0 0.000000 0.000000
+	end
+champ
+	xmin     -20.000000
+	xmax     20.000000
+	ymin     -20.000000
+	ymax     20.000000
+	end
+fini

@@ -1,0 +1,81 @@
+runmode
+	reference	3 24.1631451 0.1384420 24.163145 0.138442
+	image	1 multfile.in
+	inverse	3 0.100000 2000
+	end
+image
+	multfile	1 multfile.in
+	forme		-1
+	sigposArcsec		0.200000
+	end
+grille
+	nombre		30
+	polaire		0
+	nlentille	1
+	nlens_opt	1
+	end
+potentiel
+0
+	profil		1
+	x_centre	0.140112
+	y_centre	-0.144299
+	ellipticite	0.016335
+	angle_pos	-2.322982
+	v_disp		421.955033
+	z_lens		0.344000
+	end
+limit
+0
+	x_centre	3 0.056300 0.056300 0.010000
+	y_centre	3 -0.034736 0.034736 0.010000
+	ellipticite	3 0.238013 0.238013 0.000000
+	angle_pos	3 -0.073536 0.046893 0.001745
+	v_disp		3 434.303517 12.136613 1.000000
+	end
+cline
+	nplan		1 1.000000 
+	dmax		13.500000
+	algorithm		MARCHINGSQUARES
+	limitHigh		1.000000
+	limitLow		0.100000
+	end
+grande
+	iso	0 0 1.000000 0.000000 0.000000
+	name	best
+	profil	0 0
+	contour	0 0
+	large_dist	2.000000
+	end
+cosmologie
+	model	1
+	H0	70.000000
+	omegaM	0.300000
+	omegaX	0.700000
+	omegaK	0.000000
+	wX	-1.000000
+	wa	0.000000
+	kcourb	0.000000
+	end
+cosmolimit
+	omegaM	0 0.000000 0.000000
+	omegaX	0 0.000000 0.000000
+	wX	0 0.000000 0.000000
+	wa	0 0.000000 0.000000
+	end
+champ
+	xmin	-20.000000
+	xmax	20.000000
+	ymin	-20.000000
+	ymax	20.000000
+	end
+fini
+For z_s = 0.8000  DLS/DS:0.5143
+DLS:0.1860(lt) 796.45(Mpc) DOS:0.3616(lt) 1548.71(Mpc)
+DOL:0.2352(lt) 1007.48(Mpc) DOL_lum:0.4249(lt) 1819.85(Mpc)
+Mcrit:3.209033e-03 (10^12 Msol/kpc^2)
+Conversion Factor @ z = 0.344000, 1 arcsec == 4.884 kpc
+Number of Clumps: 1
+-------- Clump O1: Elliptical Singular Isothermal Sphere 
+ vdisp:421.96(km/s) b0:5.1348
+ rc:0.00(") 0.00(kpc)
+ r_ct:2.6407 r_cr:0.0000
