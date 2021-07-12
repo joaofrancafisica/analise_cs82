@@ -24,19 +24,19 @@ grille
 	end
 potentiel O1
 	profil       1
-	x_centre     0.377771
-	y_centre     0.019785
-	ellipticite     0.912914
-	angle_pos       -6.856241
-	v_disp     431.225126
+	x_centre     0.0
+	y_centre     0.0
+	ellipticite     0.1
+	angle_pos       150.
+	v_disp     500.
 	z_lens     0.5300
 	end
 limit O1
-	x_centre     3 0.271633 0.271633 0.010000
-	y_centre     3 0.013470 0.013470 0.001000
-	ellipticite     3 0.888355 0.888355 0.000000
-	angle_pos     3 1.571863 1.571863 0.100000
-	v_disp    3 431.331608 0.905277 1.000000
+	x_centre     1 -5. 5. 0.01
+	y_centre     1 -2. 2. 0.01
+	ellipticite     1 0. 5. 0.01
+	angle_pos     1 0. 180 0.01
+	v_disp    1 100. 900. 0.01
 	end
 cline
 	nplan    1 1.000000 
