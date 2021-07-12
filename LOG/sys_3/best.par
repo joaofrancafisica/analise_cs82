@@ -1,0 +1,60 @@
+#Mon Jul 12 19:35:20 2021
+
+#Image plane optimization
+#Chi2tot(dof=-1): 0.1163
+#Chi2pos: 0.116338
+#Chi2_vel: 0.000000
+#Chi2_mass: 0.000000
+#Chi2formex: 0.000000
+#Chi2formey: 0.000000
+#Chi2l: 0.000000
+#log(Evidence): -0.278756
+#n_Warning: 0
+runmode
+	reference     3 318.863527 -0.638076
+	image     1 multfile.in
+	end
+grille
+	nombre      30
+	polaire     0
+	nlentille   1
+	end
+potentiel O1
+	profil       1
+	x_centre     0.029615
+	y_centre     -0.151968
+	ellipticite     1.150930
+	angle_pos       54.232771
+	v_disp     547.286592
+	z_lens     0.5900
+	end
+cline
+	nplan    1 1.000000 
+	dmax     13.500000
+	algorithm   MARCHINGSQUARES
+	limitHigh   1.0
+	limitLow    0.100000
+	end
+grande
+	iso         0 0 1.000000 0.000000 0.000000
+	name        best
+	profil      0 0
+	contour     0 0
+	large_dist  2.000000
+	end
+cosmologie
+	model       1
+	H0        70.000000
+	omegaM    0.300000
+	omegaX    0.700000
+	omegaK    0.
+	wX        -1.000000
+	wa        0.000000
+	end
+champ
+	xmin     -20.000000
+	xmax     20.000000
+	ymin     -20.000000
+	ymax     20.000000
+	end
+fini
