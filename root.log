@@ -1,0 +1,588 @@
+2021-07-15 22:42:00,816 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 22:42:01,091 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 22:42:01,147 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 22:42:19,963 - autoconf.conf - WARNING - Pushing new config with path /home/joao/Documents/Research/4_sys_analysis/config/
+2021-07-15 22:42:38,990 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 22:42:39,262 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 22:42:39,314 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 22:42:39,692 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 22:58:10,307 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 22:58:10,591 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 22:58:10,649 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 22:58:10,946 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:09:25,338 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:09:25,634 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:09:25,694 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:09:26,028 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:19:47,298 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:19:47,571 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:19:47,626 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:19:47,912 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:21:31,560 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:24:50,612 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:24:50,883 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:24:50,938 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:24:51,247 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:25:07,419 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:25:07,689 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:25:07,744 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:25:08,084 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:27:58,125 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:27:58,397 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:27:58,452 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:27:58,745 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:30:58,733 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:30:59,006 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:30:59,061 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:30:59,323 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:31:20,999 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:31:21,288 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:31:21,348 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:31:21,660 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:36:14,612 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:36:14,885 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:36:14,941 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:36:15,224 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:37:25,730 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:37:26,006 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:37:26,064 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:37:26,351 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:42:52,471 - autoconf.conf - WARNING - Pushing new config with path /home/joao/Documents/Research/4_sys_analysis/config/
+2021-07-15 23:51:14,535 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-15 23:51:14,811 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-15 23:51:14,866 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-15 23:51:15,178 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2021-07-15 23:51:16,897 - overview_point_source - INFO - Creating search
+2021-07-15 23:51:16,898 - overview_point_source - INFO - Starting search
+2021-07-15 23:51:16,900 - overview_point_source - INFO - Saving path info
+2021-07-15 23:51:16,913 - overview_point_source - INFO - Not complete. Starting non-linear search.
+2021-07-15 23:51:16,914 - overview_point_source - INFO - number_of_cores == 1...
+2021-07-15 23:51:16,914 - overview_point_source - INFO - ...not using pool
+2021-07-15 23:51:16,915 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-15 23:51:18,946 - overview_point_source - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-15 23:55:09,499 - overview_point_source - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-15 23:58:34,606 - overview_point_source - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-15 23:58:35,491 - overview_point_source - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-15 23:58:36,023 - overview_point_source - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-15 23:58:45,887 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:04:05,141 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:04:05,414 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:04:05,469 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:04:49,969 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:04:50,270 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:04:50,326 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:04:51,507 - overview_point_source - INFO - Creating search
+2021-07-16 00:04:51,507 - overview_point_source - INFO - Starting search
+2021-07-16 00:04:51,530 - overview_point_source - INFO - Already completed, skipping non-linear search.
+2021-07-16 00:04:51,538 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:05:21,139 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:05:21,432 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:05:21,494 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:05:22,706 - overview_point_source - INFO - Creating search
+2021-07-16 00:05:22,707 - overview_point_source - INFO - Starting search
+2021-07-16 00:05:22,764 - overview_point_source - INFO - Already completed, skipping non-linear search.
+2021-07-16 00:05:22,773 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:29:54,410 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:29:54,695 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:29:54,751 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:42:15,976 - overview_point_source - INFO - Creating search
+2021-07-16 00:42:27,188 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:42:27,473 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:42:27,527 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:42:28,870 - overview_point_source - INFO - Creating search
+2021-07-16 00:42:28,871 - overview_point_source - INFO - Starting search
+2021-07-16 00:42:28,913 - overview_point_source - INFO - Already completed, skipping non-linear search.
+2021-07-16 00:42:28,921 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:47:58,368 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:47:58,641 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:47:58,696 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:48:00,038 - overview_point_source - INFO - Creating search
+2021-07-16 00:48:00,039 - overview_point_source - INFO - Starting search
+2021-07-16 00:48:00,065 - overview_point_source - INFO - Already completed, skipping non-linear search.
+2021-07-16 00:48:00,072 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:51:11,457 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:51:11,759 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:51:11,817 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:51:13,114 - overview_point_source - INFO - Creating search
+2021-07-16 00:51:13,114 - overview_point_source - INFO - Starting search
+2021-07-16 00:51:13,150 - overview_point_source - INFO - Already completed, skipping non-linear search.
+2021-07-16 00:51:13,157 - overview_point_source - INFO - Removing zip file
+2021-07-16 00:52:35,337 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:52:35,613 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:52:35,667 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:52:36,882 - sys2 - INFO - Creating search
+2021-07-16 00:52:36,883 - sys2 - INFO - Starting search
+2021-07-16 00:52:36,885 - sys2 - INFO - Saving path info
+2021-07-16 00:52:36,899 - sys2 - INFO - Not complete. Starting non-linear search.
+2021-07-16 00:52:36,900 - sys2 - INFO - number_of_cores == 1...
+2021-07-16 00:52:36,900 - sys2 - INFO - ...not using pool
+2021-07-16 00:52:36,901 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 00:52:38,811 - sys2 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 00:54:07,145 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 00:54:07,418 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 00:54:07,474 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 00:54:08,654 - sys2 - INFO - Creating search
+2021-07-16 00:54:08,655 - sys2 - INFO - Starting search
+2021-07-16 00:54:08,656 - sys2 - INFO - Saving path info
+2021-07-16 00:54:08,671 - sys2 - INFO - Not complete. Starting non-linear search.
+2021-07-16 00:54:08,672 - sys2 - INFO - number_of_cores == 1...
+2021-07-16 00:54:08,672 - sys2 - INFO - ...not using pool
+2021-07-16 00:54:08,673 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 00:54:10,490 - sys2 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 00:57:57,231 - sys2 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:01:25,566 - sys2 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:04:14,563 - sys2 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:07:13,903 - sys2 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:07:40,125 - sys2 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:07:42,052 - sys2 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:07:43,541 - sys2 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 01:07:56,113 - sys2 - INFO - Removing zip file
+2021-07-16 14:21:38,400 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:21:41,606 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:21:41,954 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:35:57,681 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:35:57,962 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:35:58,018 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:39:23,396 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:39:23,669 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:39:23,724 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:39:25,398 - sys1 - INFO - Creating search
+2021-07-16 14:39:25,400 - sys1 - INFO - Starting search
+2021-07-16 14:39:25,402 - sys1 - INFO - Saving path info
+2021-07-16 14:39:25,415 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:39:25,416 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:39:25,417 - sys1 - INFO - ...not using pool
+2021-07-16 14:39:25,418 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:40:18,412 - sys1 - INFO - Creating search
+2021-07-16 14:40:18,413 - sys1 - INFO - Starting search
+2021-07-16 14:40:18,414 - sys1 - INFO - Saving path info
+2021-07-16 14:40:18,425 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:40:18,426 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:40:18,427 - sys1 - INFO - ...not using pool
+2021-07-16 14:40:18,428 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:41:03,833 - sys1 - INFO - Creating search
+2021-07-16 14:41:03,834 - sys1 - INFO - Starting search
+2021-07-16 14:41:03,836 - sys1 - INFO - Saving path info
+2021-07-16 14:41:03,848 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:41:03,849 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:41:03,849 - sys1 - INFO - ...not using pool
+2021-07-16 14:41:03,850 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:41:30,218 - sys1 - INFO - Creating search
+2021-07-16 14:41:30,219 - sys1 - INFO - Starting search
+2021-07-16 14:41:30,220 - sys1 - INFO - Saving path info
+2021-07-16 14:41:30,237 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:41:30,238 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:41:30,239 - sys1 - INFO - ...not using pool
+2021-07-16 14:41:30,240 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:42:34,085 - sys1 - INFO - Creating search
+2021-07-16 14:42:34,086 - sys1 - INFO - Starting search
+2021-07-16 14:42:34,087 - sys1 - INFO - Saving path info
+2021-07-16 14:42:34,100 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:42:34,101 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:42:34,102 - sys1 - INFO - ...not using pool
+2021-07-16 14:42:34,103 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:42:59,777 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:43:00,054 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:43:00,109 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:43:01,429 - sys1 - INFO - Creating search
+2021-07-16 14:43:01,429 - sys1 - INFO - Starting search
+2021-07-16 14:43:01,431 - sys1 - INFO - Saving path info
+2021-07-16 14:43:01,446 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:43:01,446 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:43:01,447 - sys1 - INFO - ...not using pool
+2021-07-16 14:43:01,447 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:43:22,227 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:43:22,498 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:43:22,554 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:43:24,004 - sys1 - INFO - Creating search
+2021-07-16 14:43:24,005 - sys1 - INFO - Starting search
+2021-07-16 14:43:24,007 - sys1 - INFO - Saving path info
+2021-07-16 14:43:24,021 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:43:24,022 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:43:24,022 - sys1 - INFO - ...not using pool
+2021-07-16 14:43:24,024 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:43:45,937 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:43:46,209 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:43:46,262 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:43:47,537 - sys1 - INFO - Creating search
+2021-07-16 14:43:47,538 - sys1 - INFO - Starting search
+2021-07-16 14:43:47,539 - sys1 - INFO - Saving path info
+2021-07-16 14:43:47,551 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:43:47,552 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:43:47,552 - sys1 - INFO - ...not using pool
+2021-07-16 14:43:47,553 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:44:17,242 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:44:17,522 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:44:17,578 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:44:18,895 - sys1 - INFO - Creating search
+2021-07-16 14:44:18,896 - sys1 - INFO - Starting search
+2021-07-16 14:44:18,897 - sys1 - INFO - Saving path info
+2021-07-16 14:44:18,909 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:44:18,910 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:44:18,910 - sys1 - INFO - ...not using pool
+2021-07-16 14:44:18,911 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:44:44,556 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:44:44,828 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:44:44,880 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:44:46,272 - sys1 - INFO - Creating search
+2021-07-16 14:44:46,273 - sys1 - INFO - Starting search
+2021-07-16 14:44:46,275 - sys1 - INFO - Saving path info
+2021-07-16 14:44:46,287 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:44:46,288 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:44:46,289 - sys1 - INFO - ...not using pool
+2021-07-16 14:44:46,290 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:46:23,168 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:46:23,450 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:46:23,517 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:46:46,136 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:46:46,406 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:46:46,461 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:47:26,700 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:47:26,974 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:47:27,028 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:47:56,044 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:47:56,323 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:47:56,378 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:49:15,449 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:49:15,722 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:49:15,777 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:49:40,097 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:49:40,371 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:49:40,426 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:49:55,346 - sys1 - INFO - Creating search
+2021-07-16 14:49:55,347 - sys1 - INFO - Starting search
+2021-07-16 14:49:55,348 - sys1 - INFO - Saving path info
+2021-07-16 14:49:55,360 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:49:55,360 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:49:55,361 - sys1 - INFO - ...not using pool
+2021-07-16 14:49:55,362 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:52:10,439 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:52:10,715 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:52:10,772 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:52:12,145 - sys1 - INFO - Creating search
+2021-07-16 14:52:12,146 - sys1 - INFO - Starting search
+2021-07-16 14:52:12,148 - sys1 - INFO - Saving path info
+2021-07-16 14:52:12,159 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:52:12,160 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:52:12,161 - sys1 - INFO - ...not using pool
+2021-07-16 14:52:12,161 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:52:55,001 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:52:55,281 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:52:55,339 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:52:56,641 - sys1 - INFO - Creating search
+2021-07-16 14:52:56,642 - sys1 - INFO - Starting search
+2021-07-16 14:52:56,644 - sys1 - INFO - Saving path info
+2021-07-16 14:52:56,655 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:52:56,656 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:52:56,656 - sys1 - INFO - ...not using pool
+2021-07-16 14:52:56,657 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:56:42,077 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:56:42,356 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:56:42,414 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:56:43,770 - sys1 - INFO - Creating search
+2021-07-16 14:56:43,771 - sys1 - INFO - Starting search
+2021-07-16 14:56:43,773 - sys1 - INFO - Saving path info
+2021-07-16 14:56:43,787 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:56:43,788 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:56:43,789 - sys1 - INFO - ...not using pool
+2021-07-16 14:56:43,790 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:57:30,044 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 14:57:30,322 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 14:57:30,377 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 14:57:31,568 - sys1 - INFO - Creating search
+2021-07-16 14:57:31,569 - sys1 - INFO - Starting search
+2021-07-16 14:57:31,570 - sys1 - INFO - Saving path info
+2021-07-16 14:57:31,583 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:57:31,584 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:57:31,585 - sys1 - INFO - ...not using pool
+2021-07-16 14:57:31,585 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 14:58:39,489 - sys1 - INFO - Creating search
+2021-07-16 14:58:39,490 - sys1 - INFO - Starting search
+2021-07-16 14:58:39,491 - sys1 - INFO - Saving path info
+2021-07-16 14:58:39,503 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 14:58:39,503 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 14:58:39,504 - sys1 - INFO - ...not using pool
+2021-07-16 14:58:39,505 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:03:20,846 - sys1 - INFO - Creating search
+2021-07-16 15:03:20,847 - sys1 - INFO - Starting search
+2021-07-16 15:03:20,848 - sys1 - INFO - Saving path info
+2021-07-16 15:03:20,860 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:03:20,860 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:03:20,861 - sys1 - INFO - ...not using pool
+2021-07-16 15:03:20,862 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:07:19,102 - sys1 - INFO - Creating search
+2021-07-16 15:07:19,103 - sys1 - INFO - Starting search
+2021-07-16 15:07:19,104 - sys1 - INFO - Saving path info
+2021-07-16 15:07:19,116 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:07:19,117 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:07:19,118 - sys1 - INFO - ...not using pool
+2021-07-16 15:07:19,119 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:07:42,712 - sys1 - INFO - Creating search
+2021-07-16 15:07:42,713 - sys1 - INFO - Starting search
+2021-07-16 15:07:42,714 - sys1 - INFO - Saving path info
+2021-07-16 15:07:42,726 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:07:42,727 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:07:42,728 - sys1 - INFO - ...not using pool
+2021-07-16 15:07:42,729 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:07:44,920 - sys1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 15:10:15,265 - sys1 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:12:03,506 - sys1 - INFO - Creating search
+2021-07-16 15:12:03,507 - sys1 - INFO - Starting search
+2021-07-16 15:12:03,508 - sys1 - INFO - Saving path info
+2021-07-16 15:12:03,526 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:12:03,527 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:12:03,528 - sys1 - INFO - ...not using pool
+2021-07-16 15:12:03,528 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:12:14,036 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 15:12:14,322 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 15:12:14,379 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 15:12:27,315 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 15:12:27,588 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 15:12:27,643 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 15:12:37,272 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 15:12:37,543 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 15:12:37,598 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 15:12:38,846 - sys1 - INFO - Creating search
+2021-07-16 15:12:38,847 - sys1 - INFO - Starting search
+2021-07-16 15:12:38,849 - sys1 - INFO - Saving path info
+2021-07-16 15:12:38,862 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:12:38,862 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:12:38,863 - sys1 - INFO - ...not using pool
+2021-07-16 15:12:38,863 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:12:41,435 - sys1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 15:13:09,723 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 15:13:09,994 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 15:13:10,049 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 15:13:11,293 - sys1 - INFO - Creating search
+2021-07-16 15:13:11,293 - sys1 - INFO - Starting search
+2021-07-16 15:13:11,295 - sys1 - INFO - Saving path info
+2021-07-16 15:13:11,310 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:13:11,311 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:13:11,311 - sys1 - INFO - ...not using pool
+2021-07-16 15:13:11,312 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:13:13,312 - sys1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 15:15:36,211 - sys1 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:17:34,886 - sys1 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:19:24,488 - sys1 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:21:12,564 - sys1 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:22:56,805 - sys1 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:24:40,947 - sys1 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:26:31,682 - sys1 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:28:14,586 - sys1 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:30:01,511 - sys1 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:31:42,835 - sys1 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:34:04,038 - sys1 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:35:59,283 - sys1 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:37:55,056 - sys1 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:38:39,062 - sys1 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:38:40,661 - sys1 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:38:41,530 - sys1 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 15:38:42,846 - sys1 - INFO - Removing zip file
+2021-07-16 15:38:57,285 - root - WARNING - Too few points to create valid contours.
+2021-07-16 15:43:24,383 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 15:43:24,658 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 15:43:24,712 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 15:43:26,013 - sys1 - INFO - Creating search
+2021-07-16 15:43:26,014 - sys1 - INFO - Starting search
+2021-07-16 15:43:26,015 - sys1 - INFO - Saving path info
+2021-07-16 15:43:26,030 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 15:43:26,031 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 15:43:26,031 - sys1 - INFO - ...not using pool
+2021-07-16 15:43:26,032 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 15:43:29,058 - sys1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 15:55:36,399 - sys1 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 16:08:02,790 - sys1 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 16:10:16,998 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 16:10:17,278 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 16:10:17,354 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 16:13:07,644 - sys1 - INFO - Creating search
+2021-07-16 16:13:07,646 - sys1 - INFO - Starting search
+2021-07-16 16:13:07,648 - sys1 - INFO - Saving path info
+2021-07-16 16:13:07,664 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 16:13:07,666 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 16:13:07,667 - sys1 - INFO - ...not using pool
+2021-07-16 16:13:07,669 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 16:49:39,222 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 16:49:39,277 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 16:49:40,486 - sys1 - INFO - Creating search
+2021-07-16 16:49:40,486 - sys1 - INFO - Starting search
+2021-07-16 16:49:40,488 - sys1 - INFO - Saving path info
+2021-07-16 16:49:40,500 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 16:49:40,502 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 16:49:40,503 - sys1 - INFO - ...not using pool
+2021-07-16 16:49:40,504 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 16:58:18,151 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 16:58:18,211 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 16:58:19,499 - sys1 - INFO - Creating search
+2021-07-16 16:58:19,501 - sys1 - INFO - Starting search
+2021-07-16 16:58:19,503 - sys1 - INFO - Saving path info
+2021-07-16 16:58:19,520 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 16:58:19,521 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 16:58:19,522 - sys1 - INFO - ...not using pool
+2021-07-16 16:58:19,522 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:01:37,403 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 17:01:43,806 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 17:01:43,815 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 17:02:16,705 - sys1 - INFO - Creating search
+2021-07-16 17:02:16,710 - sys1 - INFO - Starting search
+2021-07-16 17:02:16,715 - sys1 - INFO - Saving path info
+2021-07-16 17:02:22,933 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:02:22,994 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:02:24,580 - sys1 - INFO - Creating search
+2021-07-16 17:02:24,584 - sys1 - INFO - Starting search
+2021-07-16 17:02:24,590 - sys1 - INFO - Saving path info
+2021-07-16 17:02:24,627 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:02:24,628 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:02:24,629 - sys1 - INFO - ...not using pool
+2021-07-16 17:02:24,630 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:02:39,820 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:02:39,880 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:02:41,591 - sys1 - INFO - Creating search
+2021-07-16 17:02:41,595 - sys1 - INFO - Starting search
+2021-07-16 17:02:41,601 - sys1 - INFO - Saving path info
+2021-07-16 17:02:41,642 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:02:41,643 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:02:41,644 - sys1 - INFO - ...not using pool
+2021-07-16 17:02:41,644 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:33:45,821 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:33:45,882 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:33:47,381 - sys1 - INFO - Creating search
+2021-07-16 17:33:47,384 - sys1 - INFO - Starting search
+2021-07-16 17:33:47,390 - sys1 - INFO - Saving path info
+2021-07-16 17:33:47,424 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:33:47,425 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:33:47,425 - sys1 - INFO - ...not using pool
+2021-07-16 17:33:47,426 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:38:28,475 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:38:28,554 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:38:29,940 - sys1 - INFO - Creating search
+2021-07-16 17:38:29,943 - sys1 - INFO - Starting search
+2021-07-16 17:38:29,947 - sys1 - INFO - Saving path info
+2021-07-16 17:38:29,972 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:38:29,974 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:38:29,975 - sys1 - INFO - ...not using pool
+2021-07-16 17:38:29,976 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:42:20,848 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:42:20,908 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:42:22,334 - sys1 - INFO - Creating search
+2021-07-16 17:42:22,337 - sys1 - INFO - Starting search
+2021-07-16 17:42:22,346 - sys1 - INFO - Saving path info
+2021-07-16 17:42:22,382 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:42:22,383 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:42:22,384 - sys1 - INFO - ...not using pool
+2021-07-16 17:42:22,386 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 17:51:28,750 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 17:51:29,033 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 17:51:29,088 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 17:51:30,488 - sys1 - INFO - Creating search
+2021-07-16 17:51:30,491 - sys1 - INFO - Starting search
+2021-07-16 17:51:30,498 - sys1 - INFO - Saving path info
+2021-07-16 17:51:30,533 - sys1 - INFO - Not complete. Starting non-linear search.
+2021-07-16 17:51:30,535 - sys1 - INFO - number_of_cores == 1...
+2021-07-16 17:51:30,535 - sys1 - INFO - ...not using pool
+2021-07-16 17:51:30,536 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 18:40:15,055 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 18:40:15,125 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 18:40:15,187 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 18:40:42,380 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 18:40:42,446 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 18:40:42,501 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 18:54:23,621 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 18:54:23,686 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 18:54:23,741 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 18:55:17,705 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 18:55:17,776 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 18:55:17,839 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:01:56,341 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:02:16,596 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 19:02:16,671 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 19:02:16,744 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:02:17,866 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:03:05,601 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 19:03:05,606 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 19:03:05,622 - mass[sie]_source[point] - INFO - Not complete. Starting non-linear search.
+2021-07-16 19:03:05,623 - mass[sie]_source[point] - INFO - number_of_cores == 1...
+2021-07-16 19:03:05,624 - mass[sie]_source[point] - INFO - ...not using pool
+2021-07-16 19:03:05,625 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 19:03:07,518 - mass[sie]_source[point] - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 19:09:35,826 - mass[sie]_source[point] - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:18:40,975 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 19:18:41,041 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 19:18:41,096 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:18:42,137 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:18:42,293 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 19:18:42,300 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 19:18:42,349 - mass[sie]_source[point] - INFO - Not complete. Starting non-linear search.
+2021-07-16 19:18:42,350 - mass[sie]_source[point] - INFO - number_of_cores == 1...
+2021-07-16 19:18:42,351 - mass[sie]_source[point] - INFO - ...not using pool
+2021-07-16 19:18:42,352 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 19:18:44,463 - mass[sie]_source[point] - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 19:21:27,485 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 19:21:27,550 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 19:21:27,605 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:21:28,596 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:21:28,751 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 19:21:28,758 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 19:21:28,803 - mass[sie]_source[point] - INFO - Not complete. Starting non-linear search.
+2021-07-16 19:21:28,804 - mass[sie]_source[point] - INFO - number_of_cores == 4...
+2021-07-16 19:21:28,805 - mass[sie]_source[point] - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-07-16 19:21:28,806 - process 0 - INFO - created
+2021-07-16 19:21:28,807 - process 1 - INFO - created
+2021-07-16 19:21:28,808 - process 2 - INFO - created
+2021-07-16 19:21:28,810 - process 3 - INFO - created
+2021-07-16 19:21:28,894 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 19:21:30,879 - mass[sie]_source[point] - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 19:26:05,716 - mass[sie]_source[point] - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:30:06,953 - mass[sie]_source[point] - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:33:52,036 - mass[sie]_source[point] - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:38:21,767 - mass[sie]_source[point] - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:42:10,537 - mass[sie]_source[point] - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:46:00,090 - mass[sie]_source[point] - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:49:21,549 - mass[sie]_source[point] - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 19:57:35,756 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 19:57:35,821 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 19:57:35,878 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:57:36,834 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:57:37,034 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 19:57:37,041 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 19:57:37,083 - mass[sie]_source[point] - INFO - Not complete. Starting non-linear search.
+2021-07-16 19:57:37,084 - mass[sie]_source[point] - INFO - number_of_cores == 4...
+2021-07-16 19:57:37,085 - mass[sie]_source[point] - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-07-16 19:57:37,087 - process 0 - INFO - created
+2021-07-16 19:57:37,088 - process 1 - INFO - created
+2021-07-16 19:57:37,090 - process 2 - INFO - created
+2021-07-16 19:57:37,091 - process 3 - INFO - created
+2021-07-16 19:57:37,210 - mass[sie]_source[point] - INFO - Existing Dynesty samples found, resuming non-linear search.
+2021-07-16 19:57:52,507 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-16 19:57:52,572 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-16 19:57:52,627 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-16 19:57:53,690 - mass[sie]_source[point] - INFO - Creating search
+2021-07-16 19:57:53,868 - mass[sie]_source[point] - INFO - Starting search
+2021-07-16 19:57:53,876 - mass[sie]_source[point] - INFO - Saving path info
+2021-07-16 19:57:53,919 - mass[sie]_source[point] - INFO - Not complete. Starting non-linear search.
+2021-07-16 19:57:53,920 - mass[sie]_source[point] - INFO - number_of_cores == 4...
+2021-07-16 19:57:53,921 - mass[sie]_source[point] - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-07-16 19:57:53,922 - process 0 - INFO - created
+2021-07-16 19:57:53,924 - process 1 - INFO - created
+2021-07-16 19:57:53,925 - process 2 - INFO - created
+2021-07-16 19:57:53,948 - process 3 - INFO - created
+2021-07-16 19:57:53,998 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-07-16 19:57:55,058 - mass[sie]_source[point] - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-07-16 19:59:56,281 - mass[sie]_source[point] - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 20:02:41,285 - mass[sie]_source[point] - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 20:02:42,165 - mass[sie]_source[point] - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 20:02:42,765 - mass[sie]_source[point] - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-07-16 20:02:53,265 - mass[sie]_source[point] - INFO - Removing zip file
