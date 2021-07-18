@@ -2,8 +2,8 @@
     "Point": {
         "centre_0": {
             "type": "Gaussian",
-            "lower_limit": "-30",
-            "upper_limit": "30",
+            "lower_limit": "-inf",
+            "upper_limit": "inf",
             "width_modifier": {
                 "type": "Absolute",
                 "value": 0.001
@@ -13,8 +13,8 @@
         },
         "centre_1": {
             "type": "Gaussian",
-            "lower_limit": "-30",
-            "upper_limit": "30",
+            "lower_limit": "-inf",
+            "upper_limit": "inf",
             "width_modifier": {
                 "type": "Absolute",
                 "value": 0.001
