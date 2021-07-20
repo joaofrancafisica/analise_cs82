@@ -847,3 +847,22 @@ the RADECSYS keyword is deprecated, use RADESYSa.
 2021-07-18 00:23:27,468 - sys4 - INFO - Starting search
 2021-07-18 00:23:27,530 - sys4 - INFO - Already completed, skipping non-linear search.
 2021-07-18 00:23:27,538 - sys4 - INFO - Removing zip file
+2021-07-19 14:43:16,291 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-07-19 14:43:16,919 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-07-19 14:43:17,179 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-07-19 14:43:19,439 - sys1 - INFO - Creating search
+2021-07-19 14:43:19,560 - sys1 - INFO - Starting search
+2021-07-19 14:43:19,813 - sys1 - INFO - Already completed, skipping non-linear search.
+2021-07-19 14:43:19,818 - sys1 - INFO - Removing zip file
+2021-07-19 14:43:43,029 - sys2 - INFO - Creating search
+2021-07-19 14:43:43,117 - sys2 - INFO - Starting search
+2021-07-19 14:43:43,333 - sys2 - INFO - Already completed, skipping non-linear search.
+2021-07-19 14:43:43,347 - sys2 - INFO - Removing zip file
+2021-07-19 14:44:01,273 - sys3 - INFO - Creating search
+2021-07-19 14:44:01,340 - sys3 - INFO - Starting search
+2021-07-19 14:44:01,570 - sys3 - INFO - Already completed, skipping non-linear search.
+2021-07-19 14:44:01,586 - sys3 - INFO - Removing zip file
+2021-07-19 14:44:19,673 - sys4 - INFO - Creating search
+2021-07-19 14:44:19,796 - sys4 - INFO - Starting search
+2021-07-19 14:44:20,083 - sys4 - INFO - Already completed, skipping non-linear search.
+2021-07-19 14:44:20,104 - sys4 - INFO - Removing zip file
