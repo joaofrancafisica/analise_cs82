@@ -1,0 +1,29 @@
+# Best-fit model results for imfit 1.8.0 (OpenMP-enabled)
+# Generated on Sat Aug 28 17:13:10 2021 by the following command:
+#    /home/joao/Documents/Research/4_sys_analysis/imgblocks/imfit_config_folder/imfit CS82SL013639.16+000818.38.fits -c config_exponential_ic3478_256.dat --sky=127 --psf psf2.fits --save-model=model.fits --save-residual=resid.fits
+
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (data-based errors)
+#   Best-fit value: 2.892327
+#   Reduced value: 0.000129
+#   AIC: 30.911006
+#   BIC: 143.190115
+
+X0		78.6423 # +/- 0.6736
+Y0		74.2929 # +/- 0.6148
+FUNCTION Sersic
+PA		63.2471 # +/- 142.55
+ell		0.105808 # +/- 0.52506
+n		      5 # +/- 0
+I_e		0.373463 # +/- 0.3923
+r_e		18.1618 # +/- 17.276
+
+X0		69.9808 # +/- 1.0676
+Y0		76.5014 # +/- 0.5419
+FUNCTION Sersic
+PA		5.76626 # +/- 116
+ell		0.302627 # +/- 1.0963
+n		      5 # +/- 0
+I_e		1.38364 # +/- 4.4115
+r_e		5.05313 # +/- 10.591

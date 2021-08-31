@@ -6454,3 +6454,12 @@ TypeError: 'RecursionPromise' object is not iterable
 2021-08-16 15:41:12,117 - sys_1_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-08-16 15:42:03,361 - sys_1_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-08-16 15:43:39,106 - sys_1_dist - INFO - Removing zip file
+2021-08-26 00:46:19,149 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-08-26 00:46:19,952 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-08-26 00:46:20,244 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-08-26 00:49:24,699 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-08-26 00:49:24,766 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-08-26 00:49:24,823 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-08-26 00:52:36,486 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-08-26 00:52:36,556 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-08-26 00:52:36,615 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
