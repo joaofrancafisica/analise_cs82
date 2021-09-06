@@ -1,29 +1,37 @@
 # Best-fit model results for imfit 1.8.0 (OpenMP-enabled)
-# Generated on Sat Aug 28 17:13:10 2021 by the following command:
-#    /home/joao/Documents/Research/4_sys_analysis/imgblocks/imfit_config_folder/imfit CS82SL013639.16+000818.38.fits -c config_exponential_ic3478_256.dat --sky=127 --psf psf2.fits --save-model=model.fits --save-residual=resid.fits
+# Generated on Sun Sep  5 14:09:01 2021 by the following command:
+#    /home/joao/Documents/Research/4_sys_analysis/imgblocks/imfit_config_folder/imfit CS82SL013639.16+000818.38.fits -c config.dat --sky=100 --psf psf2.fits --mask out.fits --save-model=model.fits --save-residual=resid.fits
 
 # Results of fit:
 #   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
 #   Fit statistic: chi-squared (data-based errors)
-#   Best-fit value: 2.892327
-#   Reduced value: 0.000129
-#   AIC: 30.911006
-#   BIC: 143.190115
+#   Best-fit value: 1.281641
+#   Reduced value: 0.000059
+#   AIC: 41.320187
+#   BIC: 201.086869
 
-X0		78.6423 # +/- 0.6736
-Y0		74.2929 # +/- 0.6148
+X0		78.6490 # +/- 0.5952
+Y0		74.3054 # +/- 0.5460
 FUNCTION Sersic
-PA		63.2471 # +/- 142.55
-ell		0.105808 # +/- 0.52506
+PA		66.0951 # +/- 148.39
+ell		0.100763 # +/- 0.52449
 n		      5 # +/- 0
-I_e		0.373463 # +/- 0.3923
-r_e		18.1618 # +/- 17.276
+I_e		0.422716 # +/- 0.53902
+r_e		16.3362 # +/- 18.619
 
-X0		69.9808 # +/- 1.0676
-Y0		76.5014 # +/- 0.5419
+X0		70.0001 # +/- 0.9519
+Y0		76.5043 # +/- 0.5554
 FUNCTION Sersic
-PA		5.76626 # +/- 116
-ell		0.302627 # +/- 1.0963
-n		      5 # +/- 0
-I_e		1.38364 # +/- 4.4115
-r_e		5.05313 # +/- 10.591
+PA		7.76548 # +/- 104.68
+ell		0.303172 # +/- 0.98292
+n		 4.7779 # +/- 20.897
+I_e		1.47525 # +/- 15.503
+r_e		4.97225 # +/- 27.939
+
+X0		60.9671 # +/- 1.7457
+Y0		15.3977 # +/- 1.3039
+FUNCTION Exponential
+PA		74.4138 # +/- 651.51
+ell		0.313665 # +/- 6.6165
+I_0		104.535 # +/- 973.36
+h		0.456273 # +/- 2.0723

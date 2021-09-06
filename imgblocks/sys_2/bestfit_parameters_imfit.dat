@@ -1,5 +1,5 @@
 # Best-fit model results for imfit 1.8.0 (OpenMP-enabled)
-# Generated on Sat Aug 28 17:25:51 2021 by the following command:
+# Generated on Sun Sep  5 14:07:11 2021 by the following command:
 #    /home/joao/Documents/Research/4_sys_analysis/imgblocks/imfit_config_folder/imfit CS82SL015824.81-003959.60.fits -c config.dat --sky=127 --psf psf2.fits --mask out.fits --save-model=model.fits --save-residual=resid.fits
 
 # Results of fit:
