@@ -6597,3 +6597,1522 @@ TypeError: 'RecursionPromise' object is not iterable
 2021-09-05 22:56:36,557 - sys_1_dist - INFO - 125000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-09-05 22:57:05,889 - sys_1_dist - INFO - 130000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-09-05 22:58:10,869 - sys_1_dist - INFO - Removing zip file
+2021-09-06 15:33:21,788 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 15:33:22,745 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 15:33:23,027 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 15:33:25,698 - sys_1_dist - INFO - Creating search
+2021-09-06 15:33:25,700 - sys_1_dist - INFO - Starting search
+2021-09-06 15:33:28,005 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 15:33:28,238 - sys_1_dist - INFO - Removing zip file
+2021-09-06 15:33:39,966 - sys_2_dist - INFO - Creating search
+2021-09-06 15:33:39,967 - sys_2_dist - INFO - Starting search
+2021-09-06 15:33:39,969 - sys_2_dist - INFO - Saving path info
+2021-09-06 15:33:40,001 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 15:33:40,002 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 15:33:40,003 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 15:33:40,004 - process 0 - INFO - created
+2021-09-06 15:33:40,005 - process 1 - INFO - created
+2021-09-06 15:33:40,006 - process 2 - INFO - created
+2021-09-06 15:33:40,050 - process 3 - INFO - created
+2021-09-06 15:33:40,051 - process 4 - INFO - created
+2021-09-06 15:33:40,052 - process 5 - INFO - created
+2021-09-06 15:33:40,139 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 15:33:45,844 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 15:34:16,758 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:34:57,383 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:35:44,101 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:36:28,686 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:37:10,607 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:37:57,172 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:38:44,211 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:39:34,212 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:40:23,286 - sys_2_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:41:15,864 - sys_2_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:42:11,188 - sys_2_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:43:12,731 - sys_2_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:44:07,465 - sys_2_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:45:06,279 - sys_2_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:45:31,482 - sys_2_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:45:52,011 - sys_2_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:46:47,947 - sys_2_dist - INFO - Removing zip file
+2021-09-06 15:49:29,493 - sys_2_dist - INFO - Creating search
+2021-09-06 15:49:29,495 - sys_2_dist - INFO - Starting search
+2021-09-06 15:49:29,497 - sys_2_dist - INFO - Saving path info
+2021-09-06 15:49:29,532 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 15:49:29,533 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 15:49:29,534 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 15:49:29,535 - process 0 - INFO - created
+2021-09-06 15:49:29,536 - process 1 - INFO - created
+2021-09-06 15:49:29,537 - process 2 - INFO - created
+2021-09-06 15:49:29,539 - process 3 - INFO - created
+2021-09-06 15:49:29,540 - process 4 - INFO - created
+2021-09-06 15:49:29,541 - process 5 - INFO - created
+2021-09-06 15:49:29,693 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 15:49:35,055 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 15:50:02,768 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:50:46,142 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:51:34,148 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:52:24,896 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:52:56,473 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:53:11,263 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:53:24,872 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:54:11,470 - sys_2_dist - INFO - Removing zip file
+2021-09-06 15:56:37,792 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 15:56:38,526 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 15:56:38,787 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 15:56:41,297 - sys_1_dist - INFO - Creating search
+2021-09-06 15:56:41,298 - sys_1_dist - INFO - Starting search
+2021-09-06 15:56:43,151 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 15:56:43,388 - sys_1_dist - INFO - Removing zip file
+2021-09-06 15:56:56,396 - sys_2_dist - INFO - Creating search
+2021-09-06 15:56:56,397 - sys_2_dist - INFO - Starting search
+2021-09-06 15:56:56,399 - sys_2_dist - INFO - Saving path info
+2021-09-06 15:56:56,428 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 15:56:56,429 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 15:56:56,430 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 15:56:56,431 - process 0 - INFO - created
+2021-09-06 15:56:56,432 - process 1 - INFO - created
+2021-09-06 15:56:56,433 - process 2 - INFO - created
+2021-09-06 15:56:56,455 - process 3 - INFO - created
+2021-09-06 15:56:56,456 - process 4 - INFO - created
+2021-09-06 15:56:56,456 - process 5 - INFO - created
+2021-09-06 15:56:56,554 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 15:57:07,315 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 15:57:38,162 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:58:19,810 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:59:02,895 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 15:59:46,398 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:00:29,350 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:01:11,380 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:01:55,346 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:02:36,416 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:02:59,088 - sys_2_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:03:18,383 - sys_2_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:03:35,257 - sys_2_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:04:27,769 - sys_2_dist - INFO - Removing zip file
+2021-09-06 16:07:31,004 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 16:07:32,095 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 16:07:32,366 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 16:07:36,038 - sys_1_dist - INFO - Creating search
+2021-09-06 16:07:36,039 - sys_1_dist - INFO - Starting search
+2021-09-06 16:07:38,222 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 16:07:38,448 - sys_1_dist - INFO - Removing zip file
+2021-09-06 16:07:51,071 - sys_2_dist - INFO - Creating search
+2021-09-06 16:07:51,075 - sys_2_dist - INFO - Starting search
+2021-09-06 16:07:51,080 - sys_2_dist - INFO - Saving path info
+2021-09-06 16:07:51,139 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 16:07:51,139 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 16:07:51,140 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 16:07:51,141 - process 0 - INFO - created
+2021-09-06 16:07:51,142 - process 1 - INFO - created
+2021-09-06 16:07:51,143 - process 2 - INFO - created
+2021-09-06 16:07:51,166 - process 3 - INFO - created
+2021-09-06 16:07:51,167 - process 4 - INFO - created
+2021-09-06 16:07:51,168 - process 5 - INFO - created
+2021-09-06 16:07:51,304 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 16:08:24,184 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 16:08:54,712 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:09:41,669 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:10:29,370 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:11:17,541 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:12:03,983 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:12:53,870 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:13:45,407 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:14:43,710 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:15:39,224 - sys_2_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:16:37,464 - sys_2_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:17:34,174 - sys_2_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:18:34,027 - sys_2_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:19:25,558 - sys_2_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:20:22,640 - sys_2_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:21:16,658 - sys_2_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:22:17,127 - sys_2_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:23:16,150 - sys_2_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:24:13,783 - sys_2_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:25:12,842 - sys_2_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:26:26,411 - sys_2_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:27:18,422 - sys_2_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:27:50,669 - sys_2_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:28:16,995 - sys_2_dist - INFO - 115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:29:23,000 - sys_2_dist - INFO - Removing zip file
+2021-09-06 16:39:53,240 - sys_3_dist - INFO - Creating search
+2021-09-06 16:39:53,246 - sys_3_dist - INFO - Starting search
+2021-09-06 16:39:53,254 - sys_3_dist - INFO - Saving path info
+2021-09-06 16:39:53,297 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 16:39:53,298 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 16:39:53,299 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 16:39:53,299 - process 0 - INFO - created
+2021-09-06 16:39:53,300 - process 1 - INFO - created
+2021-09-06 16:39:53,301 - process 2 - INFO - created
+2021-09-06 16:39:53,302 - process 3 - INFO - created
+2021-09-06 16:39:53,302 - process 4 - INFO - created
+2021-09-06 16:39:53,303 - process 5 - INFO - created
+2021-09-06 16:39:53,513 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 16:40:09,206 - sys_3_dist - INFO - Creating search
+2021-09-06 16:40:09,209 - sys_3_dist - INFO - Starting search
+2021-09-06 16:40:09,212 - sys_3_dist - INFO - Saving path info
+2021-09-06 16:40:09,252 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 16:40:09,253 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 16:40:09,253 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 16:40:09,254 - process 0 - INFO - created
+2021-09-06 16:40:09,255 - process 1 - INFO - created
+2021-09-06 16:40:09,255 - process 2 - INFO - created
+2021-09-06 16:40:09,256 - process 3 - INFO - created
+2021-09-06 16:40:09,256 - process 4 - INFO - created
+2021-09-06 16:40:09,257 - process 5 - INFO - created
+2021-09-06 16:40:09,453 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 16:40:14,442 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 16:40:33,305 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 16:40:33,374 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 16:40:33,433 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 16:40:34,964 - sys_1_dist - INFO - Creating search
+2021-09-06 16:40:34,965 - sys_1_dist - INFO - Starting search
+2021-09-06 16:40:36,207 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 16:40:36,437 - sys_1_dist - INFO - Removing zip file
+2021-09-06 16:40:50,608 - sys_2_dist - INFO - Creating search
+2021-09-06 16:40:50,610 - sys_2_dist - INFO - Starting search
+2021-09-06 16:40:51,147 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 16:40:51,207 - sys_2_dist - INFO - Removing zip file
+2021-09-06 16:41:01,135 - sys_3_dist - INFO - Creating search
+2021-09-06 16:41:01,136 - sys_3_dist - INFO - Starting search
+2021-09-06 16:41:01,138 - sys_3_dist - INFO - Saving path info
+2021-09-06 16:41:01,167 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 16:41:01,168 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 16:41:01,168 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 16:41:01,169 - process 0 - INFO - created
+2021-09-06 16:41:01,170 - process 1 - INFO - created
+2021-09-06 16:41:01,171 - process 2 - INFO - created
+2021-09-06 16:41:01,210 - process 3 - INFO - created
+2021-09-06 16:41:01,211 - process 4 - INFO - created
+2021-09-06 16:41:01,212 - process 5 - INFO - created
+2021-09-06 16:41:01,274 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 16:41:06,234 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 16:41:38,132 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:42:17,668 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:43:01,801 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:43:45,451 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:44:34,056 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:45:26,763 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:46:10,513 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:46:37,429 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:46:55,963 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:47:13,893 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:48:07,276 - sys_3_dist - INFO - Removing zip file
+2021-09-06 16:55:32,286 - sys_3_dist - INFO - Creating search
+2021-09-06 16:55:32,290 - sys_3_dist - INFO - Starting search
+2021-09-06 16:55:32,296 - sys_3_dist - INFO - Saving path info
+2021-09-06 16:55:32,356 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 16:55:32,357 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 16:55:32,358 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 16:55:32,360 - process 0 - INFO - created
+2021-09-06 16:55:32,361 - process 1 - INFO - created
+2021-09-06 16:55:32,361 - process 2 - INFO - created
+2021-09-06 16:55:32,362 - process 3 - INFO - created
+2021-09-06 16:55:32,363 - process 4 - INFO - created
+2021-09-06 16:55:32,364 - process 5 - INFO - created
+2021-09-06 16:55:32,511 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 16:55:41,884 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 16:56:09,933 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:56:54,399 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:57:36,230 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:58:20,901 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:59:04,184 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 16:59:44,577 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:00:26,877 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:01:10,203 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:01:52,660 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:02:29,939 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:02:46,759 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:03:03,539 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:03:56,822 - sys_3_dist - INFO - Removing zip file
+2021-09-06 17:04:25,867 - sys_3_dist - INFO - Creating search
+2021-09-06 17:04:25,869 - sys_3_dist - INFO - Starting search
+2021-09-06 17:04:25,871 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:04:25,914 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:04:25,915 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:04:25,915 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:04:25,916 - process 0 - INFO - created
+2021-09-06 17:04:25,917 - process 1 - INFO - created
+2021-09-06 17:04:25,918 - process 2 - INFO - created
+2021-09-06 17:04:25,919 - process 3 - INFO - created
+2021-09-06 17:04:25,919 - process 4 - INFO - created
+2021-09-06 17:04:25,920 - process 5 - INFO - created
+2021-09-06 17:04:26,077 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:04:26,731 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:04:52,745 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:05:02,691 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:05:12,313 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:05:55,527 - sys_3_dist - INFO - Removing zip file
+2021-09-06 17:07:30,612 - sys_3_dist - INFO - Creating search
+2021-09-06 17:07:30,615 - sys_3_dist - INFO - Starting search
+2021-09-06 17:07:30,617 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:07:30,651 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:07:30,652 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:07:30,652 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:07:30,653 - process 0 - INFO - created
+2021-09-06 17:07:30,654 - process 1 - INFO - created
+2021-09-06 17:07:30,655 - process 2 - INFO - created
+2021-09-06 17:07:30,656 - process 3 - INFO - created
+2021-09-06 17:07:30,657 - process 4 - INFO - created
+2021-09-06 17:07:30,657 - process 5 - INFO - created
+2021-09-06 17:07:30,814 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:07:58,408 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:08:34,179 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:09:26,154 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:10:18,613 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:11:09,590 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:12:00,949 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:12:53,467 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:13:46,070 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:14:40,670 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:15:35,990 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:16:31,385 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:17:25,018 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:18:21,317 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:19:18,351 - sys_3_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:20:14,912 - sys_3_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:21:13,495 - sys_3_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:22:13,406 - sys_3_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:23:11,422 - sys_3_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:24:12,574 - sys_3_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:25:13,853 - sys_3_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:26:08,831 - sys_3_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:27:07,652 - sys_3_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:28:09,207 - sys_3_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:28:46,757 - sys_3_dist - INFO - 115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:29:17,052 - sys_3_dist - INFO - 120000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:29:43,776 - sys_3_dist - INFO - 125000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:30:50,698 - sys_3_dist - INFO - Removing zip file
+2021-09-06 17:44:36,521 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 17:44:36,590 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 17:44:36,657 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 17:44:49,272 - sys_3_dist - INFO - Creating search
+2021-09-06 17:44:49,279 - sys_3_dist - INFO - Starting search
+2021-09-06 17:44:49,286 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:44:49,328 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:44:49,329 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:44:49,330 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:44:49,331 - process 0 - INFO - created
+2021-09-06 17:44:49,332 - process 1 - INFO - created
+2021-09-06 17:44:49,333 - process 2 - INFO - created
+2021-09-06 17:44:49,334 - process 3 - INFO - created
+2021-09-06 17:44:49,335 - process 4 - INFO - created
+2021-09-06 17:44:49,335 - process 5 - INFO - created
+2021-09-06 17:44:49,431 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:45:18,824 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 17:45:18,897 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 17:45:18,962 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 17:45:26,588 - sys_3_dist - INFO - Creating search
+2021-09-06 17:45:26,594 - sys_3_dist - INFO - Starting search
+2021-09-06 17:45:26,600 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:45:26,640 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:45:26,641 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:45:26,642 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:45:26,643 - process 0 - INFO - created
+2021-09-06 17:45:26,643 - process 1 - INFO - created
+2021-09-06 17:45:26,644 - process 2 - INFO - created
+2021-09-06 17:45:26,645 - process 3 - INFO - created
+2021-09-06 17:45:26,646 - process 4 - INFO - created
+2021-09-06 17:45:26,647 - process 5 - INFO - created
+2021-09-06 17:45:26,710 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:45:56,403 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:46:12,818 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 17:46:12,889 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 17:46:12,946 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 17:46:24,652 - sys_3_dist - INFO - Creating search
+2021-09-06 17:46:24,653 - sys_3_dist - INFO - Starting search
+2021-09-06 17:46:24,655 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:46:24,691 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:46:24,692 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:46:24,693 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:46:24,694 - process 0 - INFO - created
+2021-09-06 17:46:24,694 - process 1 - INFO - created
+2021-09-06 17:46:24,695 - process 2 - INFO - created
+2021-09-06 17:46:24,696 - process 3 - INFO - created
+2021-09-06 17:46:24,697 - process 4 - INFO - created
+2021-09-06 17:46:24,697 - process 5 - INFO - created
+2021-09-06 17:46:24,758 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:46:25,261 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:47:01,190 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:47:13,463 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:47:28,154 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:48:32,049 - sys_3_dist - INFO - Removing zip file
+2021-09-06 17:49:18,426 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 17:49:18,494 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 17:49:18,553 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 17:49:28,878 - sys_3_dist - INFO - Creating search
+2021-09-06 17:49:28,879 - sys_3_dist - INFO - Starting search
+2021-09-06 17:49:28,882 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:49:28,914 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:49:28,915 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:49:28,916 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:49:28,917 - process 0 - INFO - created
+2021-09-06 17:49:28,917 - process 1 - INFO - created
+2021-09-06 17:49:28,918 - process 2 - INFO - created
+2021-09-06 17:49:28,919 - process 3 - INFO - created
+2021-09-06 17:49:28,919 - process 4 - INFO - created
+2021-09-06 17:49:28,920 - process 5 - INFO - created
+2021-09-06 17:49:28,989 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:49:33,741 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:50:08,816 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:50:53,856 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:51:41,533 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:52:27,968 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:53:17,141 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:53:34,172 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:53:50,846 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:54:04,139 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:54:54,261 - sys_3_dist - INFO - Removing zip file
+2021-09-06 17:57:19,801 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 17:57:19,869 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 17:57:19,930 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 17:57:30,493 - sys_3_dist - INFO - Creating search
+2021-09-06 17:57:30,495 - sys_3_dist - INFO - Starting search
+2021-09-06 17:57:30,497 - sys_3_dist - INFO - Saving path info
+2021-09-06 17:57:30,544 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 17:57:30,545 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 17:57:30,546 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 17:57:30,546 - process 0 - INFO - created
+2021-09-06 17:57:30,547 - process 1 - INFO - created
+2021-09-06 17:57:30,547 - process 2 - INFO - created
+2021-09-06 17:57:30,548 - process 3 - INFO - created
+2021-09-06 17:57:30,549 - process 4 - INFO - created
+2021-09-06 17:57:30,550 - process 5 - INFO - created
+2021-09-06 17:57:30,621 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 17:57:32,212 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 17:58:00,018 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:58:46,275 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:59:41,337 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 17:59:57,499 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:00:12,501 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:00:59,617 - sys_3_dist - INFO - Removing zip file
+2021-09-06 18:01:45,325 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 18:01:45,397 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 18:01:45,453 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 18:01:46,810 - sys_1_dist - INFO - Creating search
+2021-09-06 18:01:46,811 - sys_1_dist - INFO - Starting search
+2021-09-06 18:01:48,319 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 18:01:48,548 - sys_1_dist - INFO - Removing zip file
+2021-09-06 18:02:00,099 - sys_2_dist - INFO - Creating search
+2021-09-06 18:02:00,101 - sys_2_dist - INFO - Starting search
+2021-09-06 18:02:00,767 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 18:02:00,823 - sys_2_dist - INFO - Removing zip file
+2021-09-06 18:02:12,506 - sys_3_dist - INFO - Creating search
+2021-09-06 18:02:12,507 - sys_3_dist - INFO - Starting search
+2021-09-06 18:02:12,509 - sys_3_dist - INFO - Saving path info
+2021-09-06 18:02:12,541 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 18:02:12,542 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 18:02:12,543 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 18:02:12,545 - process 0 - INFO - created
+2021-09-06 18:02:12,546 - process 1 - INFO - created
+2021-09-06 18:02:12,547 - process 2 - INFO - created
+2021-09-06 18:02:12,566 - process 3 - INFO - created
+2021-09-06 18:02:12,567 - process 4 - INFO - created
+2021-09-06 18:02:12,568 - process 5 - INFO - created
+2021-09-06 18:02:12,640 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 18:02:18,126 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 18:02:48,927 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:03:36,784 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:04:30,793 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:05:25,651 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:06:10,857 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:06:42,663 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:06:56,254 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:07:08,657 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:07:54,008 - sys_3_dist - INFO - Removing zip file
+2021-09-06 18:14:30,790 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 18:14:30,872 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 18:14:30,933 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 18:14:45,512 - sys_3_dist - INFO - Creating search
+2021-09-06 18:14:45,514 - sys_3_dist - INFO - Starting search
+2021-09-06 18:14:45,516 - sys_3_dist - INFO - Saving path info
+2021-09-06 18:14:45,554 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 18:14:45,555 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-06 18:14:45,556 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 18:14:45,557 - process 0 - INFO - created
+2021-09-06 18:14:45,558 - process 1 - INFO - created
+2021-09-06 18:14:45,559 - process 2 - INFO - created
+2021-09-06 18:14:45,560 - process 3 - INFO - created
+2021-09-06 18:14:45,561 - process 4 - INFO - created
+2021-09-06 18:14:45,562 - process 5 - INFO - created
+2021-09-06 18:14:45,635 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 18:14:50,907 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 18:15:57,010 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:17:20,042 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:18:49,444 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:19:46,430 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:20:34,843 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:21:20,337 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:22:04,279 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:22:48,807 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:23:38,633 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:24:28,192 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:25:23,791 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:26:19,984 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:27:13,109 - sys_3_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:28:02,748 - sys_3_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:28:56,480 - sys_3_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:29:54,525 - sys_3_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:30:55,741 - sys_3_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:31:54,210 - sys_3_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:32:33,709 - sys_3_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:33:03,555 - sys_3_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:33:26,826 - sys_3_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:34:27,371 - sys_3_dist - INFO - Removing zip file
+2021-09-06 18:39:09,014 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 18:39:09,095 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 18:39:09,166 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 18:39:10,929 - sys_1_dist - INFO - Creating search
+2021-09-06 18:39:10,930 - sys_1_dist - INFO - Starting search
+2021-09-06 18:39:12,182 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 18:39:12,411 - sys_1_dist - INFO - Removing zip file
+2021-09-06 18:39:25,258 - sys_2_dist - INFO - Creating search
+2021-09-06 18:39:25,259 - sys_2_dist - INFO - Starting search
+2021-09-06 18:39:25,308 - sys_2_dist - INFO - Saving path info
+2021-09-06 18:39:25,343 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 18:39:25,344 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 18:39:25,344 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 18:39:25,345 - process 0 - INFO - created
+2021-09-06 18:39:25,346 - process 1 - INFO - created
+2021-09-06 18:39:25,347 - process 2 - INFO - created
+2021-09-06 18:39:25,348 - process 3 - INFO - created
+2021-09-06 18:39:25,366 - process 4 - INFO - created
+2021-09-06 18:39:25,367 - process 5 - INFO - created
+2021-09-06 18:39:25,431 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 18:39:31,157 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 18:40:22,899 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:41:39,774 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:43:00,438 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:43:26,399 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-06 18:43:26,466 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-06 18:43:26,523 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-06 18:43:27,830 - sys_1_dist - INFO - Creating search
+2021-09-06 18:43:27,832 - sys_1_dist - INFO - Starting search
+2021-09-06 18:43:29,258 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-06 18:43:29,477 - sys_1_dist - INFO - Removing zip file
+2021-09-06 18:43:42,740 - sys_2_dist - INFO - Creating search
+2021-09-06 18:43:42,742 - sys_2_dist - INFO - Starting search
+2021-09-06 18:43:42,744 - sys_2_dist - INFO - Saving path info
+2021-09-06 18:43:42,775 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-06 18:43:42,776 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-06 18:43:42,776 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-06 18:43:42,777 - process 0 - INFO - created
+2021-09-06 18:43:42,778 - process 1 - INFO - created
+2021-09-06 18:43:42,779 - process 2 - INFO - created
+2021-09-06 18:43:42,780 - process 3 - INFO - created
+2021-09-06 18:43:42,806 - process 4 - INFO - created
+2021-09-06 18:43:42,807 - process 5 - INFO - created
+2021-09-06 18:43:42,867 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-06 18:43:43,491 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-06 18:44:17,556 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:45:01,494 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:45:49,893 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:46:40,422 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:47:29,622 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:47:55,710 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:48:08,430 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:48:20,919 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-06 18:49:04,426 - sys_2_dist - INFO - Removing zip file
+2021-09-07 12:48:44,578 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-07 12:48:45,392 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-07 12:48:45,661 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-07 12:48:49,978 - sys_1_dist - INFO - Creating search
+2021-09-07 12:48:49,980 - sys_1_dist - INFO - Starting search
+2021-09-07 12:48:52,551 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 12:48:52,798 - sys_1_dist - INFO - Removing zip file
+2021-09-07 12:49:06,263 - sys_2_dist - INFO - Creating search
+2021-09-07 12:49:06,264 - sys_2_dist - INFO - Starting search
+2021-09-07 12:49:08,324 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 12:49:08,352 - sys_2_dist - INFO - Removing zip file
+2021-09-07 12:49:13,141 - sys_3_dist - INFO - Creating search
+2021-09-07 12:49:13,143 - sys_3_dist - INFO - Starting search
+2021-09-07 12:49:13,146 - sys_3_dist - INFO - Saving path info
+2021-09-07 12:49:13,184 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 12:49:13,185 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-07 12:49:13,186 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 12:49:13,187 - process 0 - INFO - created
+2021-09-07 12:49:13,188 - process 1 - INFO - created
+2021-09-07 12:49:13,189 - process 2 - INFO - created
+2021-09-07 12:49:13,224 - process 3 - INFO - created
+2021-09-07 12:49:13,225 - process 4 - INFO - created
+2021-09-07 12:49:13,226 - process 5 - INFO - created
+2021-09-07 12:49:13,360 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 12:49:14,269 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 12:49:47,366 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:50:49,613 - sys_3_dist - INFO - Creating search
+2021-09-07 12:50:49,616 - sys_3_dist - INFO - Starting search
+2021-09-07 12:50:49,618 - sys_3_dist - INFO - Saving path info
+2021-09-07 12:50:49,656 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 12:50:49,657 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-07 12:50:49,658 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 12:50:49,659 - process 0 - INFO - created
+2021-09-07 12:50:49,660 - process 1 - INFO - created
+2021-09-07 12:50:49,661 - process 2 - INFO - created
+2021-09-07 12:50:49,662 - process 3 - INFO - created
+2021-09-07 12:50:49,663 - process 4 - INFO - created
+2021-09-07 12:50:49,664 - process 5 - INFO - created
+2021-09-07 12:50:49,722 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 12:50:50,198 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 12:51:22,975 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:52:10,386 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:52:49,348 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:53:37,126 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:53:58,994 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:54:12,912 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:54:25,111 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:55:12,828 - sys_3_dist - INFO - Removing zip file
+2021-09-07 12:56:14,350 - sys_3_dist - INFO - Creating search
+2021-09-07 12:56:14,357 - sys_3_dist - INFO - Starting search
+2021-09-07 12:56:14,361 - sys_3_dist - INFO - Saving path info
+2021-09-07 12:56:14,403 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 12:56:14,404 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-07 12:56:14,404 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 12:56:14,405 - process 0 - INFO - created
+2021-09-07 12:56:14,406 - process 1 - INFO - created
+2021-09-07 12:56:14,407 - process 2 - INFO - created
+2021-09-07 12:56:14,408 - process 3 - INFO - created
+2021-09-07 12:56:14,410 - process 4 - INFO - created
+2021-09-07 12:56:14,411 - process 5 - INFO - created
+2021-09-07 12:56:14,517 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 12:56:15,016 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 12:56:44,146 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:57:27,897 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:58:04,411 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:58:44,854 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 12:59:26,382 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:00:08,904 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:00:53,396 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:01:42,729 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:02:33,281 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:03:25,686 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:04:21,349 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:04:51,466 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:05:13,291 - sys_3_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:05:30,473 - sys_3_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:06:30,220 - sys_3_dist - INFO - Removing zip file
+2021-09-07 13:06:58,857 - sys_3_dist - INFO - Creating search
+2021-09-07 13:06:58,859 - sys_3_dist - INFO - Starting search
+2021-09-07 13:06:58,861 - sys_3_dist - INFO - Saving path info
+2021-09-07 13:06:58,895 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 13:06:58,896 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-07 13:06:58,896 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 13:06:58,898 - process 0 - INFO - created
+2021-09-07 13:06:58,899 - process 1 - INFO - created
+2021-09-07 13:06:58,900 - process 2 - INFO - created
+2021-09-07 13:06:58,901 - process 3 - INFO - created
+2021-09-07 13:06:58,902 - process 4 - INFO - created
+2021-09-07 13:06:58,903 - process 5 - INFO - created
+2021-09-07 13:06:59,045 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 13:06:59,988 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 13:07:30,524 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:08:17,304 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:09:05,894 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:09:52,174 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:10:40,628 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:11:31,278 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:12:18,968 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:13:10,334 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:14:02,543 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:14:56,574 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:15:54,344 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:16:41,776 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:17:43,412 - sys_3_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:18:44,961 - sys_3_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:19:50,345 - sys_3_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:20:54,350 - sys_3_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:22:02,659 - sys_3_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:23:06,995 - sys_3_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:24:09,512 - sys_3_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:25:22,003 - sys_3_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:26:36,080 - sys_3_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:27:40,400 - sys_3_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:28:21,578 - sys_3_dist - INFO - 115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:28:50,903 - sys_3_dist - INFO - 120000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:30:18,523 - sys_3_dist - INFO - Removing zip file
+2021-09-07 13:54:28,762 - sys_2_dist - INFO - Creating search
+2021-09-07 13:54:28,808 - sys_2_dist - INFO - Starting search
+2021-09-07 13:54:29,557 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 13:54:29,608 - sys_2_dist - INFO - Removing zip file
+2021-09-07 13:54:37,801 - sys_4_dist - INFO - Creating search
+2021-09-07 13:54:37,807 - sys_4_dist - INFO - Starting search
+2021-09-07 13:54:37,813 - sys_4_dist - INFO - Saving path info
+2021-09-07 13:54:37,854 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 13:54:37,855 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 13:54:37,856 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 13:54:37,857 - process 0 - INFO - created
+2021-09-07 13:54:37,858 - process 1 - INFO - created
+2021-09-07 13:54:37,859 - process 2 - INFO - created
+2021-09-07 13:54:37,860 - process 3 - INFO - created
+2021-09-07 13:54:37,861 - process 4 - INFO - created
+2021-09-07 13:54:37,862 - process 5 - INFO - created
+2021-09-07 13:54:38,099 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 13:54:38,678 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 13:55:07,038 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:55:55,421 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:56:43,906 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:57:32,715 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:58:37,166 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 13:59:21,856 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:00:08,014 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:00:58,873 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:01:30,507 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:01:50,297 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:02:07,840 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:03:01,736 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:03:52,239 - sys_4_dist - INFO - Creating search
+2021-09-07 14:03:52,241 - sys_4_dist - INFO - Starting search
+2021-09-07 14:03:52,243 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:03:52,300 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:03:52,301 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:03:52,302 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:03:52,304 - process 0 - INFO - created
+2021-09-07 14:03:52,305 - process 1 - INFO - created
+2021-09-07 14:03:52,305 - process 2 - INFO - created
+2021-09-07 14:03:52,306 - process 3 - INFO - created
+2021-09-07 14:03:52,307 - process 4 - INFO - created
+2021-09-07 14:03:52,308 - process 5 - INFO - created
+2021-09-07 14:03:52,545 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:03:52,993 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:04:25,781 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:05:08,210 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:05:21,445 - sys_4_dist - INFO - Creating search
+2021-09-07 14:05:21,447 - sys_4_dist - INFO - Starting search
+2021-09-07 14:05:21,449 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:05:21,487 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:05:21,488 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:05:21,489 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:05:21,490 - process 0 - INFO - created
+2021-09-07 14:05:21,490 - process 1 - INFO - created
+2021-09-07 14:05:21,491 - process 2 - INFO - created
+2021-09-07 14:05:21,491 - process 3 - INFO - created
+2021-09-07 14:05:21,492 - process 4 - INFO - created
+2021-09-07 14:05:21,492 - process 5 - INFO - created
+2021-09-07 14:05:21,712 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:05:22,158 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:05:56,116 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:06:20,218 - sys_4_dist - INFO - Creating search
+2021-09-07 14:06:20,225 - sys_4_dist - INFO - Starting search
+2021-09-07 14:06:20,230 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:06:20,270 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:06:20,271 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:06:20,271 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:06:20,272 - process 0 - INFO - created
+2021-09-07 14:06:20,273 - process 1 - INFO - created
+2021-09-07 14:06:20,273 - process 2 - INFO - created
+2021-09-07 14:06:20,292 - process 3 - INFO - created
+2021-09-07 14:06:20,293 - process 4 - INFO - created
+2021-09-07 14:06:20,294 - process 5 - INFO - created
+2021-09-07 14:06:20,502 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:06:20,970 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:07:01,292 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-07 14:07:01,994 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-07 14:07:02,297 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-07 14:07:05,143 - sys_1_dist - INFO - Creating search
+2021-09-07 14:07:05,144 - sys_1_dist - INFO - Starting search
+2021-09-07 14:07:07,074 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:07:07,289 - sys_1_dist - INFO - Removing zip file
+2021-09-07 14:07:20,539 - sys_2_dist - INFO - Creating search
+2021-09-07 14:07:20,541 - sys_2_dist - INFO - Starting search
+2021-09-07 14:07:21,154 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:07:21,177 - sys_2_dist - INFO - Removing zip file
+2021-09-07 14:07:25,116 - sys_3_dist - INFO - Creating search
+2021-09-07 14:07:25,117 - sys_3_dist - INFO - Starting search
+2021-09-07 14:07:26,989 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:07:27,288 - sys_3_dist - INFO - Removing zip file
+2021-09-07 14:07:40,154 - sys_4_dist - INFO - Creating search
+2021-09-07 14:07:40,155 - sys_4_dist - INFO - Starting search
+2021-09-07 14:07:40,158 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:07:40,319 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:07:40,320 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:07:40,320 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:07:40,322 - process 0 - INFO - created
+2021-09-07 14:07:40,323 - process 1 - INFO - created
+2021-09-07 14:07:40,364 - process 2 - INFO - created
+2021-09-07 14:07:40,366 - process 3 - INFO - created
+2021-09-07 14:07:40,368 - process 4 - INFO - created
+2021-09-07 14:07:40,369 - process 5 - INFO - created
+2021-09-07 14:07:40,512 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:07:41,512 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:08:12,475 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:09:01,349 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:09:46,613 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:10:29,022 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:11:12,768 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:11:57,401 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:12:42,887 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:13:30,538 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:15:52,163 - sys_4_dist - INFO - Creating search
+2021-09-07 14:15:52,170 - sys_4_dist - INFO - Starting search
+2021-09-07 14:15:52,176 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:15:52,219 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:15:52,220 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:15:52,221 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:15:52,222 - process 0 - INFO - created
+2021-09-07 14:15:52,223 - process 1 - INFO - created
+2021-09-07 14:15:52,224 - process 2 - INFO - created
+2021-09-07 14:15:52,225 - process 3 - INFO - created
+2021-09-07 14:15:52,226 - process 4 - INFO - created
+2021-09-07 14:15:52,227 - process 5 - INFO - created
+2021-09-07 14:15:52,346 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:15:53,693 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:16:20,795 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:17:03,527 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:17:51,257 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:18:35,378 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:19:19,269 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:20:11,800 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:20:57,827 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:21:43,408 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:22:41,753 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:23:36,392 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:24:26,562 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:25:20,754 - sys_4_dist - INFO - Creating search
+2021-09-07 14:25:20,759 - sys_4_dist - INFO - Starting search
+2021-09-07 14:25:20,763 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:25:20,802 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:25:20,803 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:25:20,804 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:25:20,804 - process 0 - INFO - created
+2021-09-07 14:25:20,805 - process 1 - INFO - created
+2021-09-07 14:25:20,806 - process 2 - INFO - created
+2021-09-07 14:25:20,806 - process 3 - INFO - created
+2021-09-07 14:25:20,807 - process 4 - INFO - created
+2021-09-07 14:25:20,808 - process 5 - INFO - created
+2021-09-07 14:25:20,986 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:25:21,436 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:25:33,492 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-07 14:25:33,572 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-07 14:25:33,655 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-07 14:25:35,167 - sys_1_dist - INFO - Creating search
+2021-09-07 14:25:35,168 - sys_1_dist - INFO - Starting search
+2021-09-07 14:25:36,292 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:25:36,524 - sys_1_dist - INFO - Removing zip file
+2021-09-07 14:25:49,037 - sys_2_dist - INFO - Creating search
+2021-09-07 14:25:49,038 - sys_2_dist - INFO - Starting search
+2021-09-07 14:25:49,318 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:25:49,339 - sys_2_dist - INFO - Removing zip file
+2021-09-07 14:25:53,086 - sys_3_dist - INFO - Creating search
+2021-09-07 14:25:53,088 - sys_3_dist - INFO - Starting search
+2021-09-07 14:25:54,311 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 14:25:54,583 - sys_3_dist - INFO - Removing zip file
+2021-09-07 14:26:07,840 - sys_4_dist - INFO - Creating search
+2021-09-07 14:26:07,841 - sys_4_dist - INFO - Starting search
+2021-09-07 14:26:07,843 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:26:07,872 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:26:07,873 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:26:07,873 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:26:07,874 - process 0 - INFO - created
+2021-09-07 14:26:07,875 - process 1 - INFO - created
+2021-09-07 14:26:07,875 - process 2 - INFO - created
+2021-09-07 14:26:07,904 - process 3 - INFO - created
+2021-09-07 14:26:07,905 - process 4 - INFO - created
+2021-09-07 14:26:07,906 - process 5 - INFO - created
+2021-09-07 14:26:07,972 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:26:08,437 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:26:38,319 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:26:51,297 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:27:02,619 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:27:15,845 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:28:01,080 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:29:35,317 - sys_4_dist - INFO - Creating search
+2021-09-07 14:29:35,320 - sys_4_dist - INFO - Starting search
+2021-09-07 14:29:35,322 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:29:35,356 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:29:35,357 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:29:35,357 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:29:35,359 - process 0 - INFO - created
+2021-09-07 14:29:35,360 - process 1 - INFO - created
+2021-09-07 14:29:35,360 - process 2 - INFO - created
+2021-09-07 14:29:35,361 - process 3 - INFO - created
+2021-09-07 14:29:35,362 - process 4 - INFO - created
+2021-09-07 14:29:35,363 - process 5 - INFO - created
+2021-09-07 14:29:35,478 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:29:36,368 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:30:06,858 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:30:53,983 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:31:34,988 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:32:17,084 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:32:34,758 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:32:48,636 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:33:02,195 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:33:50,526 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:34:52,759 - sys_4_dist - INFO - Creating search
+2021-09-07 14:34:52,762 - sys_4_dist - INFO - Starting search
+2021-09-07 14:34:52,764 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:34:52,801 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:34:52,802 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:34:52,803 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:34:52,805 - process 0 - INFO - created
+2021-09-07 14:34:52,806 - process 1 - INFO - created
+2021-09-07 14:34:52,807 - process 2 - INFO - created
+2021-09-07 14:34:52,808 - process 3 - INFO - created
+2021-09-07 14:34:52,809 - process 4 - INFO - created
+2021-09-07 14:34:52,809 - process 5 - INFO - created
+2021-09-07 14:34:52,935 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:34:53,873 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:35:16,847 - sys_4_dist - INFO - Creating search
+2021-09-07 14:35:16,855 - sys_4_dist - INFO - Starting search
+2021-09-07 14:35:16,861 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:35:16,904 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:35:16,905 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:35:16,906 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:35:16,907 - process 0 - INFO - created
+2021-09-07 14:35:16,908 - process 1 - INFO - created
+2021-09-07 14:35:16,909 - process 2 - INFO - created
+2021-09-07 14:35:16,911 - process 3 - INFO - created
+2021-09-07 14:35:16,912 - process 4 - INFO - created
+2021-09-07 14:35:16,913 - process 5 - INFO - created
+2021-09-07 14:35:17,033 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:35:17,963 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:35:47,323 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:36:37,120 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:37:29,753 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:38:19,620 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:39:00,028 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:39:15,731 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:39:28,697 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:40:15,284 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:41:19,532 - sys_4_dist - INFO - Creating search
+2021-09-07 14:41:19,534 - sys_4_dist - INFO - Starting search
+2021-09-07 14:41:19,537 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:41:19,574 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:41:19,575 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:41:19,576 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:41:19,578 - process 0 - INFO - created
+2021-09-07 14:41:19,578 - process 1 - INFO - created
+2021-09-07 14:41:19,579 - process 2 - INFO - created
+2021-09-07 14:41:19,580 - process 3 - INFO - created
+2021-09-07 14:41:19,580 - process 4 - INFO - created
+2021-09-07 14:41:19,581 - process 5 - INFO - created
+2021-09-07 14:41:19,722 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:41:20,164 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:41:53,055 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:42:39,836 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:43:25,657 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:44:11,139 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:44:31,096 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:44:42,672 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:44:54,752 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:45:45,107 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:46:34,154 - sys_4_dist - INFO - Creating search
+2021-09-07 14:46:34,161 - sys_4_dist - INFO - Starting search
+2021-09-07 14:46:34,168 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:46:34,211 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:46:34,212 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:46:34,214 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:46:34,215 - process 0 - INFO - created
+2021-09-07 14:46:34,217 - process 1 - INFO - created
+2021-09-07 14:46:34,218 - process 2 - INFO - created
+2021-09-07 14:46:34,219 - process 3 - INFO - created
+2021-09-07 14:46:34,219 - process 4 - INFO - created
+2021-09-07 14:46:34,221 - process 5 - INFO - created
+2021-09-07 14:46:34,395 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:46:34,854 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:47:07,515 - sys_4_dist - INFO - Creating search
+2021-09-07 14:47:07,517 - sys_4_dist - INFO - Starting search
+2021-09-07 14:47:07,520 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:47:07,556 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:47:07,557 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:47:07,558 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:47:07,558 - process 0 - INFO - created
+2021-09-07 14:47:07,559 - process 1 - INFO - created
+2021-09-07 14:47:07,560 - process 2 - INFO - created
+2021-09-07 14:47:07,561 - process 3 - INFO - created
+2021-09-07 14:47:07,593 - process 4 - INFO - created
+2021-09-07 14:47:07,597 - process 5 - INFO - created
+2021-09-07 14:47:07,758 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:47:08,257 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:47:41,389 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:48:25,219 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:49:07,335 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:49:38,533 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:49:51,135 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:50:02,657 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:50:51,688 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:53:57,746 - sys_4_dist - INFO - Creating search
+2021-09-07 14:53:57,748 - sys_4_dist - INFO - Starting search
+2021-09-07 14:53:57,751 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:53:57,789 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:53:57,790 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:53:57,791 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:53:57,792 - process 0 - INFO - created
+2021-09-07 14:53:57,793 - process 1 - INFO - created
+2021-09-07 14:53:57,794 - process 2 - INFO - created
+2021-09-07 14:53:57,796 - process 3 - INFO - created
+2021-09-07 14:53:57,797 - process 4 - INFO - created
+2021-09-07 14:53:57,797 - process 5 - INFO - created
+2021-09-07 14:53:57,945 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:53:58,381 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 14:54:28,215 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:55:13,838 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:55:55,643 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:56:37,453 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:57:24,284 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:57:53,857 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:58:05,604 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:58:17,131 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 14:59:03,514 - sys_4_dist - INFO - Removing zip file
+2021-09-07 14:59:35,549 - sys_4_dist - INFO - Creating search
+2021-09-07 14:59:35,558 - sys_4_dist - INFO - Starting search
+2021-09-07 14:59:35,564 - sys_4_dist - INFO - Saving path info
+2021-09-07 14:59:35,609 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 14:59:35,611 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 14:59:35,612 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 14:59:35,614 - process 0 - INFO - created
+2021-09-07 14:59:35,615 - process 1 - INFO - created
+2021-09-07 14:59:35,617 - process 2 - INFO - created
+2021-09-07 14:59:35,618 - process 3 - INFO - created
+2021-09-07 14:59:35,619 - process 4 - INFO - created
+2021-09-07 14:59:35,621 - process 5 - INFO - created
+2021-09-07 14:59:35,783 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 14:59:36,239 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 15:00:08,384 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:00:31,932 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:00:47,326 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:00:59,510 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:01:45,451 - sys_4_dist - INFO - Removing zip file
+2021-09-07 15:02:51,454 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-07 15:02:51,537 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-07 15:02:51,605 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-07 15:02:53,314 - sys_1_dist - INFO - Creating search
+2021-09-07 15:02:53,316 - sys_1_dist - INFO - Starting search
+2021-09-07 15:02:54,496 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:02:54,707 - sys_1_dist - INFO - Removing zip file
+2021-09-07 15:03:08,328 - sys_2_dist - INFO - Creating search
+2021-09-07 15:03:08,329 - sys_2_dist - INFO - Starting search
+2021-09-07 15:03:08,630 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:03:08,652 - sys_2_dist - INFO - Removing zip file
+2021-09-07 15:03:12,717 - sys_3_dist - INFO - Creating search
+2021-09-07 15:03:12,718 - sys_3_dist - INFO - Starting search
+2021-09-07 15:03:13,978 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:03:14,279 - sys_3_dist - INFO - Removing zip file
+2021-09-07 15:03:28,222 - sys_4_dist - INFO - Creating search
+2021-09-07 15:03:28,224 - sys_4_dist - INFO - Starting search
+2021-09-07 15:03:28,226 - sys_4_dist - INFO - Saving path info
+2021-09-07 15:03:28,258 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 15:03:28,258 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 15:03:28,259 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 15:03:28,260 - process 0 - INFO - created
+2021-09-07 15:03:28,260 - process 1 - INFO - created
+2021-09-07 15:03:28,292 - process 2 - INFO - created
+2021-09-07 15:03:28,293 - process 3 - INFO - created
+2021-09-07 15:03:28,294 - process 4 - INFO - created
+2021-09-07 15:03:28,295 - process 5 - INFO - created
+2021-09-07 15:03:28,362 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 15:03:32,994 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 15:04:03,303 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:04:44,423 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:05:26,595 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:06:07,986 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:06:43,743 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:07:27,842 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:08:07,703 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:08:54,076 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:09:45,013 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:10:31,456 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:11:22,677 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:12:12,982 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:12:58,763 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:14:08,919 - sys_4_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:14:55,321 - sys_4_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:15:44,607 - sys_4_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:16:30,842 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:17:18,703 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:18:17,967 - sys_4_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:19:13,176 - sys_4_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:20:09,405 - sys_4_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:20:40,170 - sys_4_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:21:10,288 - sys_4_dist - INFO - 115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:21:35,550 - sys_4_dist - INFO - 120000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:22:36,675 - sys_4_dist - INFO - Removing zip file
+2021-09-07 15:23:33,354 - sys_4_dist - INFO - Creating search
+2021-09-07 15:23:33,355 - sys_4_dist - INFO - Starting search
+2021-09-07 15:23:33,357 - sys_4_dist - INFO - Saving path info
+2021-09-07 15:23:33,391 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 15:23:33,392 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 15:23:33,392 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 15:23:33,393 - process 0 - INFO - created
+2021-09-07 15:23:33,394 - process 1 - INFO - created
+2021-09-07 15:23:33,396 - process 2 - INFO - created
+2021-09-07 15:23:33,397 - process 3 - INFO - created
+2021-09-07 15:23:33,398 - process 4 - INFO - created
+2021-09-07 15:23:33,399 - process 5 - INFO - created
+2021-09-07 15:23:33,642 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 15:23:37,979 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 15:24:17,440 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:24:59,941 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:25:46,541 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:26:28,239 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:27:13,070 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:28:01,336 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:28:47,417 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:29:33,500 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:30:18,686 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:31:23,775 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:32:22,157 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:33:21,802 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:34:20,084 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:35:21,748 - sys_4_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:36:28,019 - sys_4_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:37:31,846 - sys_4_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:38:31,163 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:39:26,719 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:40:18,284 - sys_4_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:40:49,420 - sys_4_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:41:15,435 - sys_4_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:41:36,030 - sys_4_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:42:42,259 - sys_4_dist - INFO - Removing zip file
+2021-09-07 15:44:01,470 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-07 15:44:03,977 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-07 15:44:04,480 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-07 15:44:07,959 - sys_1_dist - INFO - Creating search
+2021-09-07 15:44:07,962 - sys_1_dist - INFO - Starting search
+2021-09-07 15:44:10,790 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:44:10,986 - sys_1_dist - INFO - Removing zip file
+2021-09-07 15:44:25,084 - sys_2_dist - INFO - Creating search
+2021-09-07 15:44:25,085 - sys_2_dist - INFO - Starting search
+2021-09-07 15:44:25,733 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:44:25,764 - sys_2_dist - INFO - Removing zip file
+2021-09-07 15:44:29,696 - sys_3_dist - INFO - Creating search
+2021-09-07 15:44:29,697 - sys_3_dist - INFO - Starting search
+2021-09-07 15:44:31,739 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-07 15:44:32,039 - sys_3_dist - INFO - Removing zip file
+2021-09-07 15:44:45,591 - sys_4_dist - INFO - Creating search
+2021-09-07 15:44:45,592 - sys_4_dist - INFO - Starting search
+2021-09-07 15:44:45,594 - sys_4_dist - INFO - Saving path info
+2021-09-07 15:44:45,627 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-07 15:44:45,628 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-07 15:44:45,629 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-07 15:44:45,629 - process 0 - INFO - created
+2021-09-07 15:44:45,630 - process 1 - INFO - created
+2021-09-07 15:44:45,631 - process 2 - INFO - created
+2021-09-07 15:44:45,672 - process 3 - INFO - created
+2021-09-07 15:44:45,673 - process 4 - INFO - created
+2021-09-07 15:44:45,674 - process 5 - INFO - created
+2021-09-07 15:44:45,794 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-07 15:44:50,698 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-07 15:45:20,866 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:46:11,859 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:47:04,766 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:47:42,673 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:48:20,766 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:49:02,864 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:49:52,371 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:50:40,044 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:51:27,209 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:52:16,077 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:53:04,483 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:54:02,156 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:54:57,512 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:55:52,814 - sys_4_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:56:44,019 - sys_4_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:57:40,710 - sys_4_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:58:32,052 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 15:59:20,099 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:00:08,080 - sys_4_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:01:02,675 - sys_4_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:02:00,092 - sys_4_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:03:08,458 - sys_4_dist - INFO - 110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:03:54,153 - sys_4_dist - INFO - 115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:04:46,750 - sys_4_dist - INFO - 120000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:05:37,144 - sys_4_dist - INFO - 125000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:06:34,951 - sys_4_dist - INFO - 130000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:07:27,666 - sys_4_dist - INFO - 135000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:08:19,208 - sys_4_dist - INFO - 140000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:09:07,393 - sys_4_dist - INFO - 145000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:10:00,229 - sys_4_dist - INFO - 150000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:10:56,091 - sys_4_dist - INFO - 155000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:12:06,047 - sys_4_dist - INFO - 160000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:13:04,642 - sys_4_dist - INFO - 165000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:14:09,203 - sys_4_dist - INFO - 170000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:15:15,662 - sys_4_dist - INFO - 175000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:16:14,787 - sys_4_dist - INFO - 180000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:17:15,932 - sys_4_dist - INFO - 185000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:18:17,525 - sys_4_dist - INFO - 190000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:19:30,637 - sys_4_dist - INFO - 195000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:20:39,517 - sys_4_dist - INFO - 200000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:21:47,952 - sys_4_dist - INFO - 205000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:22:59,297 - sys_4_dist - INFO - 210000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:24:10,166 - sys_4_dist - INFO - 215000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:25:22,115 - sys_4_dist - INFO - 220000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:26:36,009 - sys_4_dist - INFO - 225000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:27:50,049 - sys_4_dist - INFO - 230000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:29:02,952 - sys_4_dist - INFO - 235000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:30:10,133 - sys_4_dist - INFO - 240000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:31:30,248 - sys_4_dist - INFO - 245000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:32:46,494 - sys_4_dist - INFO - 250000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:34:10,568 - sys_4_dist - INFO - 255000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:35:29,579 - sys_4_dist - INFO - 260000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:36:44,152 - sys_4_dist - INFO - 265000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-07 16:38:03,859 - sys_4_dist - INFO - 270000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:08:54,360 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:08:55,140 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:08:55,420 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:09:46,497 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:09:46,577 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:09:46,643 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:09:48,721 - sys_1_dist - INFO - Creating search
+2021-09-08 01:09:48,722 - sys_1_dist - INFO - Starting search
+2021-09-08 01:09:50,756 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:09:51,006 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:10:04,693 - sys_2_dist - INFO - Creating search
+2021-09-08 01:10:04,696 - sys_2_dist - INFO - Starting search
+2021-09-08 01:10:05,312 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:10:05,348 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:10:09,182 - sys_3_dist - INFO - Creating search
+2021-09-08 01:10:09,183 - sys_3_dist - INFO - Starting search
+2021-09-08 01:10:11,450 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:10:11,727 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:10:24,983 - sys_4_dist - INFO - Creating search
+2021-09-08 01:10:24,984 - sys_4_dist - INFO - Starting search
+2021-09-08 01:10:24,986 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:10:25,020 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:10:25,021 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:10:25,022 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:10:25,023 - process 0 - INFO - created
+2021-09-08 01:10:25,024 - process 1 - INFO - created
+2021-09-08 01:10:25,057 - process 2 - INFO - created
+2021-09-08 01:10:25,059 - process 3 - INFO - created
+2021-09-08 01:10:25,060 - process 4 - INFO - created
+2021-09-08 01:10:25,061 - process 5 - INFO - created
+2021-09-08 01:10:25,171 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:10:29,985 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:12:07,673 - sys_4_dist - INFO - Creating search
+2021-09-08 01:12:07,675 - sys_4_dist - INFO - Starting search
+2021-09-08 01:12:07,699 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:12:07,747 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:12:07,747 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:12:07,748 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:12:07,749 - process 0 - INFO - created
+2021-09-08 01:12:07,750 - process 1 - INFO - created
+2021-09-08 01:12:07,750 - process 2 - INFO - created
+2021-09-08 01:12:07,751 - process 3 - INFO - created
+2021-09-08 01:12:07,752 - process 4 - INFO - created
+2021-09-08 01:12:07,753 - process 5 - INFO - created
+2021-09-08 01:12:07,813 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:12:08,339 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:12:35,798 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:12:46,932 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:12:57,976 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:13:44,736 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:14:34,005 - sys_4_dist - INFO - Creating search
+2021-09-08 01:14:34,013 - sys_4_dist - INFO - Starting search
+2021-09-08 01:14:34,019 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:14:34,073 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:14:34,074 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:14:34,075 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:14:34,077 - process 0 - INFO - created
+2021-09-08 01:14:34,078 - process 1 - INFO - created
+2021-09-08 01:14:34,079 - process 2 - INFO - created
+2021-09-08 01:14:34,079 - process 3 - INFO - created
+2021-09-08 01:14:34,080 - process 4 - INFO - created
+2021-09-08 01:14:34,082 - process 5 - INFO - created
+2021-09-08 01:14:34,172 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:14:34,607 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:14:54,435 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:15:05,082 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:15:15,442 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:16:03,831 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:16:53,623 - sys_4_dist - INFO - Creating search
+2021-09-08 01:16:53,626 - sys_4_dist - INFO - Starting search
+2021-09-08 01:16:53,692 - sys_4_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:16:53,696 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:17:13,930 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:17:14,007 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:17:14,074 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:17:15,503 - sys_1_dist - INFO - Creating search
+2021-09-08 01:17:15,504 - sys_1_dist - INFO - Starting search
+2021-09-08 01:17:16,623 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:17:16,852 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:17:29,753 - sys_2_dist - INFO - Creating search
+2021-09-08 01:17:29,754 - sys_2_dist - INFO - Starting search
+2021-09-08 01:17:30,026 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:17:30,049 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:17:34,040 - sys_3_dist - INFO - Creating search
+2021-09-08 01:17:34,041 - sys_3_dist - INFO - Starting search
+2021-09-08 01:17:35,259 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:17:35,526 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:17:48,749 - sys_4_dist - INFO - Creating search
+2021-09-08 01:17:48,750 - sys_4_dist - INFO - Starting search
+2021-09-08 01:17:48,751 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:17:48,784 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:17:48,784 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:17:48,785 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:17:48,786 - process 0 - INFO - created
+2021-09-08 01:17:48,786 - process 1 - INFO - created
+2021-09-08 01:17:48,813 - process 2 - INFO - created
+2021-09-08 01:17:48,814 - process 3 - INFO - created
+2021-09-08 01:17:48,816 - process 4 - INFO - created
+2021-09-08 01:17:48,817 - process 5 - INFO - created
+2021-09-08 01:17:48,879 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:17:49,359 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:18:21,342 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:18:35,199 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:18:45,671 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:18:59,722 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:18:59,798 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:18:59,862 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:19:01,352 - sys_1_dist - INFO - Creating search
+2021-09-08 01:19:01,353 - sys_1_dist - INFO - Starting search
+2021-09-08 01:19:02,500 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:19:02,748 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:19:15,974 - sys_2_dist - INFO - Creating search
+2021-09-08 01:19:15,975 - sys_2_dist - INFO - Starting search
+2021-09-08 01:19:16,352 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:19:16,384 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:19:20,141 - sys_3_dist - INFO - Creating search
+2021-09-08 01:19:20,142 - sys_3_dist - INFO - Starting search
+2021-09-08 01:19:21,294 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:19:21,572 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:19:34,867 - sys_4_dist - INFO - Creating search
+2021-09-08 01:19:34,869 - sys_4_dist - INFO - Starting search
+2021-09-08 01:19:34,870 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:19:34,904 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:19:34,904 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:19:34,905 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:19:34,906 - process 0 - INFO - created
+2021-09-08 01:19:34,906 - process 1 - INFO - created
+2021-09-08 01:19:34,929 - process 2 - INFO - created
+2021-09-08 01:19:34,930 - process 3 - INFO - created
+2021-09-08 01:19:34,931 - process 4 - INFO - created
+2021-09-08 01:19:34,932 - process 5 - INFO - created
+2021-09-08 01:19:35,002 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:19:35,553 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:20:16,995 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:21:17,082 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:21:48,776 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:21:48,855 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:21:48,921 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:21:50,498 - sys_1_dist - INFO - Creating search
+2021-09-08 01:21:50,499 - sys_1_dist - INFO - Starting search
+2021-09-08 01:21:51,651 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:21:51,891 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:22:05,278 - sys_2_dist - INFO - Creating search
+2021-09-08 01:22:05,279 - sys_2_dist - INFO - Starting search
+2021-09-08 01:22:05,524 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:22:05,546 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:22:09,483 - sys_3_dist - INFO - Creating search
+2021-09-08 01:22:09,484 - sys_3_dist - INFO - Starting search
+2021-09-08 01:22:10,677 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:22:10,916 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:22:24,692 - sys_4_dist - INFO - Creating search
+2021-09-08 01:22:24,694 - sys_4_dist - INFO - Starting search
+2021-09-08 01:22:24,696 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:22:24,728 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:22:24,729 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:22:24,729 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:22:24,730 - process 0 - INFO - created
+2021-09-08 01:22:24,731 - process 1 - INFO - created
+2021-09-08 01:22:24,765 - process 2 - INFO - created
+2021-09-08 01:22:24,766 - process 3 - INFO - created
+2021-09-08 01:22:24,767 - process 4 - INFO - created
+2021-09-08 01:22:24,767 - process 5 - INFO - created
+2021-09-08 01:22:24,835 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:22:25,330 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:22:55,771 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:23:07,342 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:23:18,944 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:24:06,661 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:27:52,527 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:27:52,605 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:27:52,672 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:27:54,499 - sys_1_dist - INFO - Creating search
+2021-09-08 01:27:54,500 - sys_1_dist - INFO - Starting search
+2021-09-08 01:27:55,701 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:27:55,928 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:28:09,278 - sys_2_dist - INFO - Creating search
+2021-09-08 01:28:09,279 - sys_2_dist - INFO - Starting search
+2021-09-08 01:28:09,562 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:28:09,585 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:28:13,360 - sys_3_dist - INFO - Creating search
+2021-09-08 01:28:13,362 - sys_3_dist - INFO - Starting search
+2021-09-08 01:28:14,827 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:28:15,106 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:28:28,322 - sys_4_dist - INFO - Creating search
+2021-09-08 01:28:28,323 - sys_4_dist - INFO - Starting search
+2021-09-08 01:28:28,325 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:28:28,356 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:28:28,357 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:28:28,358 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:28:28,360 - process 0 - INFO - created
+2021-09-08 01:28:28,361 - process 1 - INFO - created
+2021-09-08 01:28:28,389 - process 2 - INFO - created
+2021-09-08 01:28:28,392 - process 3 - INFO - created
+2021-09-08 01:28:28,397 - process 4 - INFO - created
+2021-09-08 01:28:28,400 - process 5 - INFO - created
+2021-09-08 01:28:28,485 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:28:28,984 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:28:48,047 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-08 01:28:48,119 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-08 01:28:48,181 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-08 01:28:49,640 - sys_1_dist - INFO - Creating search
+2021-09-08 01:28:49,641 - sys_1_dist - INFO - Starting search
+2021-09-08 01:28:50,789 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:28:51,016 - sys_1_dist - INFO - Removing zip file
+2021-09-08 01:29:04,330 - sys_2_dist - INFO - Creating search
+2021-09-08 01:29:04,332 - sys_2_dist - INFO - Starting search
+2021-09-08 01:29:04,598 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:29:04,622 - sys_2_dist - INFO - Removing zip file
+2021-09-08 01:29:08,374 - sys_3_dist - INFO - Creating search
+2021-09-08 01:29:08,376 - sys_3_dist - INFO - Starting search
+2021-09-08 01:29:09,636 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-08 01:29:09,916 - sys_3_dist - INFO - Removing zip file
+2021-09-08 01:29:23,500 - sys_4_dist - INFO - Creating search
+2021-09-08 01:29:23,502 - sys_4_dist - INFO - Starting search
+2021-09-08 01:29:23,503 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:29:23,535 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:29:23,535 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:29:23,536 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:29:23,537 - process 0 - INFO - created
+2021-09-08 01:29:23,537 - process 1 - INFO - created
+2021-09-08 01:29:23,553 - process 2 - INFO - created
+2021-09-08 01:29:23,554 - process 3 - INFO - created
+2021-09-08 01:29:23,555 - process 4 - INFO - created
+2021-09-08 01:29:23,555 - process 5 - INFO - created
+2021-09-08 01:29:23,628 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:29:24,156 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:29:56,272 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:30:42,828 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:31:31,129 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:32:16,613 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:33:00,224 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:33:42,133 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:34:31,325 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:35:12,485 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:35:51,949 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:36:46,062 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:37:25,413 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:37:42,817 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:37:55,501 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:38:39,743 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:39:16,872 - sys_4_dist - INFO - Creating search
+2021-09-08 01:39:16,876 - sys_4_dist - INFO - Starting search
+2021-09-08 01:39:16,881 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:39:16,919 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:39:16,921 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:39:16,921 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:39:16,922 - process 0 - INFO - created
+2021-09-08 01:39:16,923 - process 1 - INFO - created
+2021-09-08 01:39:16,925 - process 2 - INFO - created
+2021-09-08 01:39:16,926 - process 3 - INFO - created
+2021-09-08 01:39:16,927 - process 4 - INFO - created
+2021-09-08 01:39:16,928 - process 5 - INFO - created
+2021-09-08 01:39:17,067 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:39:17,560 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:39:57,932 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:40:24,944 - sys_4_dist - INFO - Creating search
+2021-09-08 01:40:24,947 - sys_4_dist - INFO - Starting search
+2021-09-08 01:40:24,949 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:40:24,985 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:40:24,986 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:40:24,987 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:40:24,988 - process 0 - INFO - created
+2021-09-08 01:40:24,990 - process 1 - INFO - created
+2021-09-08 01:40:24,991 - process 2 - INFO - created
+2021-09-08 01:40:24,991 - process 3 - INFO - created
+2021-09-08 01:40:24,992 - process 4 - INFO - created
+2021-09-08 01:40:24,993 - process 5 - INFO - created
+2021-09-08 01:40:25,120 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:40:25,591 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:41:11,207 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:41:48,559 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:42:00,698 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:42:13,462 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:43:01,259 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:43:53,985 - sys_4_dist - INFO - Creating search
+2021-09-08 01:43:53,991 - sys_4_dist - INFO - Starting search
+2021-09-08 01:43:53,997 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:43:54,038 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:43:54,039 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:43:54,040 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:43:54,041 - process 0 - INFO - created
+2021-09-08 01:43:54,042 - process 1 - INFO - created
+2021-09-08 01:43:54,043 - process 2 - INFO - created
+2021-09-08 01:43:54,045 - process 3 - INFO - created
+2021-09-08 01:43:54,045 - process 4 - INFO - created
+2021-09-08 01:43:54,046 - process 5 - INFO - created
+2021-09-08 01:43:54,194 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:43:55,574 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:44:26,588 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:45:16,001 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:46:18,984 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:47:09,906 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:48:04,476 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:49:02,549 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:49:59,591 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:50:49,764 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:51:35,349 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:51:51,965 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:52:08,957 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:53:09,728 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:54:19,465 - sys_4_dist - INFO - Creating search
+2021-09-08 01:54:19,471 - sys_4_dist - INFO - Starting search
+2021-09-08 01:54:19,476 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:54:19,518 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:54:19,519 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:54:19,520 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:54:19,520 - process 0 - INFO - created
+2021-09-08 01:54:19,521 - process 1 - INFO - created
+2021-09-08 01:54:19,522 - process 2 - INFO - created
+2021-09-08 01:54:19,523 - process 3 - INFO - created
+2021-09-08 01:54:19,524 - process 4 - INFO - created
+2021-09-08 01:54:19,525 - process 5 - INFO - created
+2021-09-08 01:54:19,692 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:54:20,623 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:54:52,234 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:55:39,756 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:56:14,583 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:56:27,792 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:56:40,832 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:57:28,498 - sys_4_dist - INFO - Removing zip file
+2021-09-08 01:58:07,800 - sys_4_dist - INFO - Creating search
+2021-09-08 01:58:07,806 - sys_4_dist - INFO - Starting search
+2021-09-08 01:58:07,810 - sys_4_dist - INFO - Saving path info
+2021-09-08 01:58:07,859 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 01:58:07,860 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 01:58:07,861 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 01:58:07,862 - process 0 - INFO - created
+2021-09-08 01:58:07,862 - process 1 - INFO - created
+2021-09-08 01:58:07,863 - process 2 - INFO - created
+2021-09-08 01:58:07,864 - process 3 - INFO - created
+2021-09-08 01:58:07,866 - process 4 - INFO - created
+2021-09-08 01:58:07,867 - process 5 - INFO - created
+2021-09-08 01:58:08,035 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 01:58:08,327 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 01:58:29,635 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:58:41,763 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:58:55,907 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 01:59:44,515 - sys_4_dist - INFO - Removing zip file
+2021-09-08 02:00:03,613 - sys_4_dist - INFO - Creating search
+2021-09-08 02:00:03,620 - sys_4_dist - INFO - Starting search
+2021-09-08 02:00:03,625 - sys_4_dist - INFO - Saving path info
+2021-09-08 02:00:03,664 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-08 02:00:03,665 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-08 02:00:03,666 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-08 02:00:03,667 - process 0 - INFO - created
+2021-09-08 02:00:03,668 - process 1 - INFO - created
+2021-09-08 02:00:03,669 - process 2 - INFO - created
+2021-09-08 02:00:03,671 - process 3 - INFO - created
+2021-09-08 02:00:03,672 - process 4 - INFO - created
+2021-09-08 02:00:03,673 - process 5 - INFO - created
+2021-09-08 02:00:03,838 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-08 02:00:05,763 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-08 02:00:38,964 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:01:24,833 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:02:19,761 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:03:05,966 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:04:15,356 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:04:41,782 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:05:22,615 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:06:12,553 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:07:00,999 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:07:53,657 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:08:43,766 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:09:41,062 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:10:28,940 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:11:19,699 - sys_4_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:12:08,716 - sys_4_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:12:41,358 - sys_4_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:13:03,684 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:13:23,138 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-08 02:14:15,142 - sys_4_dist - INFO - Removing zip file

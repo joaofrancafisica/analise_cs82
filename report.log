@@ -298,3 +298,95 @@
 2021-09-05 22:22:41,958 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
 2021-09-05 22:30:59,935 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
 2021-09-05 22:36:29,567 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 15:33:14,073 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 15:54:33,436 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:54:34,388 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.5864229427850566e-12, best pos: [1.00000125 1.00000251]
+2021-09-06 15:55:36,410 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:55:41,888 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:55:55,561 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:56:34,737 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 15:57:10,419 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:57:17,717 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:57:51,783 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:58:27,412 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:58:35,807 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:59:06,984 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:59:25,867 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 15:59:28,916 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:00:02,262 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:00:15,828 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:00:25,105 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:01:15,428 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:03:13,996 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:03:25,972 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:03:33,166 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:03:34,143 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 6.010384560925051, best pos: [ 0.56149668  0.59978857 -0.00659724  0.92421566  0.32343697  0.01772764
+  0.36689041  0.27174596  0.18548765 -0.38813847]
+2021-09-06 16:03:45,974 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:11,865 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:14,149 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 84.68616055204426, best pos: [ 0.68517681 -0.10786838  0.59050718 -0.12262908  0.59754778  0.89127953
+ -0.24377095  0.97610401  0.46091627  0.16797212  0.50105359 -0.65937852
+  0.08638209  1.23357185  0.73350216  0.55450666  0.44093731  0.31395313
+  0.55794496  0.63237777  0.38763852  0.23889438  0.25281719  0.27219031
+ -0.1033866  -0.13327229  0.68209834  0.64706997  0.93308237  0.75049902
+  1.30415963  0.61886473  0.14477923  0.70676629  2.01516907  0.65395604
+  0.25363219  1.28403841  1.36898169  1.13551183  1.36136985  0.37229517
+  0.53154355  0.0406358   0.03848767  0.64668504  0.45675273  0.39837367
+  0.46926257  0.51271454  0.13486294 -0.09413284  0.77282809 -0.00401014
+  0.43280772  0.91513516 -0.36295988  0.82823579  0.49035632  1.03939163
+  1.04070808  1.06616801  0.40225285  0.29930501  0.57325541  0.07066431
+ -0.02430166  0.60048529  0.61785853 -0.6323006   1.00800821  0.79447485
+  1.05684266  0.80301246  0.83572702  0.20804677 -0.2932054   0.09859591
+  0.86715241  0.80251349  0.17669904  0.7982375   1.14382876 -0.95172474
+  0.16805057  1.17604098  0.81840623  0.82094847 -0.16101251  0.48122105
+  0.12477147  0.647201    0.20637838  0.46715053  0.38657279  0.56287529
+  0.29585732  0.28474141  0.3912459   0.56432734]
+2021-09-06 16:04:24,833 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:27,342 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 103.51931349004444, best pos: [ 0.38965561  0.96665989  0.53267298  0.62088592  0.64871559 -0.24590251
+  0.67359805  0.03253966  0.65048192 -1.11542779 -0.18082792  0.51639478
+  0.31557054  0.06832835  0.12043912  0.7250997  -0.02810255 -1.71826264
+  0.50637037  0.39468513 -0.03039728 -0.92469168  1.39630111  0.18705229
+  0.07071193 -0.60071816 -0.02991127  0.54726288  1.02393297  0.22292766
+ -0.12372892 -0.12452948  0.46568837  0.33235862  0.42213732 -0.32912395
+  0.04082089 -0.16316642 -0.17656079  0.4465694   0.29118603 -0.08233956
+  0.40121739  0.81734554  0.8353044   0.49610564 -0.20929076  0.8548032
+  0.40827702  1.56068077  0.46595112  0.3010555   0.55551199  0.17065091
+ -1.04794376  0.42706113 -0.01023575  0.20317135  0.58127799  0.97865495
+ -0.17357058 -0.59186255  0.47476678  1.00953875  0.0806731  -0.26944418
+ -0.25675906  0.32088188  1.13814483  0.19585553  0.45164473  0.35620184
+  0.44664548  0.00469     0.1848217   0.62789659  1.10305381  0.90691379
+  0.37193584  0.96001456  0.37662901  0.39593884  0.31131657  0.80914636
+  0.41725195  0.07868488  0.1914354   0.20260755  0.83351811 -0.18606446
+  0.2296112   0.31893626  0.38375904  0.70627062  0.36934619  0.41634821
+  1.14156337  0.85895987  0.18175927  0.02777473]
+2021-09-06 16:04:33,536 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:38,059 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:48,588 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:04:55,067 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:06:43,960 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:06:56,694 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:07:20,066 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:07:24,236 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 16:07:26,991 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2021-09-06 16:40:32,969 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 17:44:36,103 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 17:45:18,449 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 17:46:12,464 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 17:49:18,076 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 17:57:19,460 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 18:01:44,993 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 18:14:30,389 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 18:39:08,639 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-06 18:43:26,065 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-07 12:48:36,730 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-07 14:06:54,744 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-07 14:25:33,103 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-07 15:02:51,028 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-07 15:43:54,881 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:08:47,045 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:09:46,167 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:17:13,515 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:18:59,323 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:21:48,368 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:27:52,130 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
+2021-09-08 01:28:47,677 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autofit/config
