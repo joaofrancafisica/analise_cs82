@@ -8116,3 +8116,713 @@ TypeError: 'RecursionPromise' object is not iterable
 2021-09-08 02:13:03,684 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-09-08 02:13:23,138 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2021-09-08 02:14:15,142 - sys_4_dist - INFO - Removing zip file
+2021-09-13 15:53:17,480 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 15:53:18,353 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 15:53:18,602 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 16:06:02,253 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 16:06:02,321 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 16:06:02,382 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 16:06:21,190 - sys_1_dist - INFO - Creating search
+2021-09-13 16:06:21,196 - sys_1_dist - INFO - Starting search
+2021-09-13 16:06:21,236 - sys_1_dist - INFO - Saving path info
+2021-09-13 16:06:21,271 - sys_1_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:06:21,272 - sys_1_dist - INFO - number_of_cores == 6...
+2021-09-13 16:06:21,272 - sys_1_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:06:21,274 - process 0 - INFO - created
+2021-09-13 16:06:21,274 - process 1 - INFO - created
+2021-09-13 16:06:21,276 - process 2 - INFO - created
+2021-09-13 16:06:21,276 - process 3 - INFO - created
+2021-09-13 16:06:21,277 - process 4 - INFO - created
+2021-09-13 16:06:21,278 - process 5 - INFO - created
+2021-09-13 16:06:21,366 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:06:27,004 - sys_1_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:07:06,896 - sys_1_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:07:53,818 - sys_1_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:08:40,395 - sys_1_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:09:23,262 - sys_1_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:10:12,938 - sys_1_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:11:03,435 - sys_1_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:12:14,382 - sys_1_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:13:06,089 - sys_1_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:13:58,750 - sys_1_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:14:36,825 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 16:14:36,895 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 16:14:36,953 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 16:15:08,875 - sys_1_dist - INFO - Creating search
+2021-09-13 16:15:08,876 - sys_1_dist - INFO - Starting search
+2021-09-13 16:15:08,878 - sys_1_dist - INFO - Saving path info
+2021-09-13 16:15:08,912 - sys_1_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:15:08,912 - sys_1_dist - INFO - number_of_cores == 6...
+2021-09-13 16:15:08,913 - sys_1_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:15:08,914 - process 0 - INFO - created
+2021-09-13 16:15:08,915 - process 1 - INFO - created
+2021-09-13 16:15:08,916 - process 2 - INFO - created
+2021-09-13 16:15:08,917 - process 3 - INFO - created
+2021-09-13 16:15:08,918 - process 4 - INFO - created
+2021-09-13 16:15:08,919 - process 5 - INFO - created
+2021-09-13 16:15:08,993 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:15:17,512 - sys_1_dist - INFO - Creating search
+2021-09-13 16:15:17,519 - sys_1_dist - INFO - Starting search
+2021-09-13 16:15:17,525 - sys_1_dist - INFO - Saving path info
+2021-09-13 16:15:17,565 - sys_1_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:15:17,566 - sys_1_dist - INFO - number_of_cores == 6...
+2021-09-13 16:15:17,566 - sys_1_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:15:17,567 - process 0 - INFO - created
+2021-09-13 16:15:17,568 - process 1 - INFO - created
+2021-09-13 16:15:17,569 - process 2 - INFO - created
+2021-09-13 16:15:17,570 - process 3 - INFO - created
+2021-09-13 16:15:17,570 - process 4 - INFO - created
+2021-09-13 16:15:17,571 - process 5 - INFO - created
+2021-09-13 16:15:17,608 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:15:18,220 - sys_1_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:15:22,035 - process 1 - ERROR - 'RecursionPromise' object is not iterable
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 939, in __call__
+    return self.func(x, *self.args, **self.kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/nest/dynesty/abstract.py", line 18, in prior_transform
+    phys_cube = model.vector_from_unit_vector(unit_vector=cube)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 289, in vector_from_unit_vector
+    self.prior_tuples_ordered_by_id,
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 272, in prior_tuples_ordered_by_id
+    list(self.unique_prior_tuples), key=lambda prior_tuple: prior_tuple.prior.id
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 259, in unique_prior_tuples
+    for prior_tuple in self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 251, in attribute_tuples_with_type
+    for t in self.path_instance_tuples_for_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 201, in path_instance_tuples_for_class
+    return path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 290, in path_instances_of_class
+    for key, value in d.items():
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 154, in run
+    job.perform(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 121, in perform
+    return self.function(
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/sampling.py", line 89, in sample_unif
+    v = prior_transform(np.array(u))
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 944, in __call__
+    print("  args:", self.args)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 44, in __repr__
+    return f"<{self.__class__.__name__} {self}>"
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/prior_model.py", line 29, in __str__
+    prior_string = ", ".join(map(str, self.prior_tuples))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 739, in prior_tuples
+    return self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 249, in attribute_tuples_with_type
+    return [
+TypeError: 'RecursionPromise' object is not iterable
+2021-09-13 16:15:30,508 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 16:15:30,577 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 16:15:30,637 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 16:15:34,372 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 16:15:34,442 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 16:15:34,501 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 16:15:38,436 - sys_1_dist - INFO - Creating search
+2021-09-13 16:15:38,437 - sys_1_dist - INFO - Starting search
+2021-09-13 16:15:38,439 - sys_1_dist - INFO - Saving path info
+2021-09-13 16:15:38,471 - sys_1_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:15:38,472 - sys_1_dist - INFO - number_of_cores == 6...
+2021-09-13 16:15:38,473 - sys_1_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:15:38,474 - process 0 - INFO - created
+2021-09-13 16:15:38,475 - process 1 - INFO - created
+2021-09-13 16:15:38,475 - process 2 - INFO - created
+2021-09-13 16:15:38,476 - process 3 - INFO - created
+2021-09-13 16:15:38,477 - process 4 - INFO - created
+2021-09-13 16:15:38,477 - process 5 - INFO - created
+2021-09-13 16:15:38,565 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:15:39,132 - sys_1_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:16:20,859 - sys_1_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:17:18,361 - sys_1_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:18:06,986 - sys_1_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:19:14,745 - sys_1_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:20:03,890 - sys_1_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:21:12,102 - sys_1_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:21:55,618 - sys_1_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:22:10,349 - sys_1_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:22:29,875 - sys_1_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:23:15,400 - sys_1_dist - INFO - Removing zip file
+2021-09-13 16:24:31,267 - sys_2_dist - INFO - Creating search
+2021-09-13 16:24:31,268 - sys_2_dist - INFO - Starting search
+2021-09-13 16:24:31,270 - sys_2_dist - INFO - Saving path info
+2021-09-13 16:24:31,302 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:24:31,304 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-13 16:24:31,304 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:24:31,306 - process 0 - INFO - created
+2021-09-13 16:24:31,307 - process 1 - INFO - created
+2021-09-13 16:24:31,308 - process 2 - INFO - created
+2021-09-13 16:24:31,309 - process 3 - INFO - created
+2021-09-13 16:24:31,309 - process 4 - INFO - created
+2021-09-13 16:24:31,310 - process 5 - INFO - created
+2021-09-13 16:24:31,425 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:24:31,952 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:25:04,949 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:25:47,696 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:26:35,671 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:27:24,887 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:28:12,660 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:28:48,296 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:29:20,013 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:30:09,151 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:30:44,477 - sys_2_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:31:26,880 - sys_2_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:31:55,307 - sys_2_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:32:32,792 - sys_2_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:33:17,976 - sys_2_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:33:56,702 - sys_2_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:35:15,530 - sys_2_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:35:41,691 - sys_2_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:35:59,986 - sys_2_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:36:17,016 - sys_2_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:37:03,102 - sys_2_dist - INFO - Removing zip file
+2021-09-13 16:37:19,526 - sys_2_dist - INFO - Creating search
+2021-09-13 16:37:19,532 - sys_2_dist - INFO - Starting search
+2021-09-13 16:37:19,539 - sys_2_dist - INFO - Saving path info
+2021-09-13 16:37:19,581 - sys_2_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:37:19,582 - sys_2_dist - INFO - number_of_cores == 6...
+2021-09-13 16:37:19,583 - sys_2_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:37:19,584 - process 0 - INFO - created
+2021-09-13 16:37:19,585 - process 1 - INFO - created
+2021-09-13 16:37:19,586 - process 2 - INFO - created
+2021-09-13 16:37:19,587 - process 3 - INFO - created
+2021-09-13 16:37:19,588 - process 4 - INFO - created
+2021-09-13 16:37:19,590 - process 5 - INFO - created
+2021-09-13 16:37:19,771 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:37:21,375 - sys_2_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:37:58,894 - sys_2_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:38:44,736 - sys_2_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:39:39,667 - sys_2_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:40:23,798 - sys_2_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:41:15,793 - sys_2_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:42:07,904 - sys_2_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:42:58,919 - sys_2_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:43:53,682 - sys_2_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:44:44,464 - sys_2_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:45:53,550 - sys_2_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:46:48,747 - sys_2_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:47:48,887 - sys_2_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:48:48,061 - sys_2_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:49:47,630 - sys_2_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:50:45,061 - sys_2_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:51:09,906 - sys_2_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:51:33,635 - sys_2_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:51:54,607 - sys_2_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:52:50,492 - sys_2_dist - INFO - Removing zip file
+2021-09-13 16:55:23,841 - sys_3_dist - INFO - Creating search
+2021-09-13 16:55:23,843 - sys_3_dist - INFO - Starting search
+2021-09-13 16:55:23,846 - sys_3_dist - INFO - Saving path info
+2021-09-13 16:55:23,881 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 16:55:23,882 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-13 16:55:23,883 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 16:55:23,884 - process 0 - INFO - created
+2021-09-13 16:55:23,885 - process 1 - INFO - created
+2021-09-13 16:55:23,886 - process 2 - INFO - created
+2021-09-13 16:55:23,887 - process 3 - INFO - created
+2021-09-13 16:55:23,888 - process 4 - INFO - created
+2021-09-13 16:55:23,889 - process 5 - INFO - created
+2021-09-13 16:55:24,074 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 16:55:24,551 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 16:56:01,839 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:56:45,094 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:57:27,102 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:58:16,875 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:58:58,814 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:59:16,388 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 16:59:28,332 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:00:15,810 - sys_3_dist - INFO - Removing zip file
+2021-09-13 17:04:55,392 - sys_3_dist - INFO - Creating search
+2021-09-13 17:04:55,395 - sys_3_dist - INFO - Starting search
+2021-09-13 17:04:55,397 - sys_3_dist - INFO - Saving path info
+2021-09-13 17:04:55,434 - sys_3_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 17:04:55,435 - sys_3_dist - INFO - number_of_cores == 6...
+2021-09-13 17:04:55,435 - sys_3_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 17:04:55,436 - process 0 - INFO - created
+2021-09-13 17:04:55,437 - process 1 - INFO - created
+2021-09-13 17:04:55,438 - process 2 - INFO - created
+2021-09-13 17:04:55,439 - process 3 - INFO - created
+2021-09-13 17:04:55,440 - process 4 - INFO - created
+2021-09-13 17:04:55,441 - process 5 - INFO - created
+2021-09-13 17:04:55,645 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 17:04:57,065 - sys_3_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 17:05:51,191 - sys_3_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:06:33,585 - sys_3_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:07:18,479 - sys_3_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:08:00,349 - sys_3_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:08:42,897 - sys_3_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:09:27,088 - sys_3_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:10:15,117 - sys_3_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:11:02,703 - sys_3_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:11:52,478 - sys_3_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:12:44,839 - sys_3_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:13:10,098 - sys_3_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:13:28,363 - sys_3_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:13:44,310 - sys_3_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:14:33,102 - sys_3_dist - INFO - Removing zip file
+2021-09-13 17:18:00,292 - sys_4_dist - INFO - Creating search
+2021-09-13 17:18:00,294 - sys_4_dist - INFO - Starting search
+2021-09-13 17:18:00,296 - sys_4_dist - INFO - Saving path info
+2021-09-13 17:18:00,331 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 17:18:00,332 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-13 17:18:00,333 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 17:18:00,334 - process 0 - INFO - created
+2021-09-13 17:18:00,334 - process 1 - INFO - created
+2021-09-13 17:18:00,336 - process 2 - INFO - created
+2021-09-13 17:18:00,336 - process 3 - INFO - created
+2021-09-13 17:18:00,338 - process 4 - INFO - created
+2021-09-13 17:18:00,339 - process 5 - INFO - created
+2021-09-13 17:18:00,558 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 17:18:02,486 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 17:18:30,599 - process 1 - ERROR - 'RecursionPromise' object is not iterable
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 939, in __call__
+    return self.func(x, *self.args, **self.kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/nest/dynesty/abstract.py", line 18, in prior_transform
+    phys_cube = model.vector_from_unit_vector(unit_vector=cube)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 289, in vector_from_unit_vector
+    self.prior_tuples_ordered_by_id,
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 272, in prior_tuples_ordered_by_id
+    list(self.unique_prior_tuples), key=lambda prior_tuple: prior_tuple.prior.id
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 259, in unique_prior_tuples
+    for prior_tuple in self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 251, in attribute_tuples_with_type
+    for t in self.path_instance_tuples_for_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 201, in path_instance_tuples_for_class
+    return path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 84, in wrapper
+    result = replace_promise(recursion_promise, result, result)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 35, in replace_promise
+    return [
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 36, in <listcomp>
+    replace_promise(promise, item, true_value, seen_objects=seen_objects)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 154, in run
+    job.perform(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 121, in perform
+    return self.function(
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/sampling.py", line 89, in sample_unif
+    v = prior_transform(np.array(u))
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 944, in __call__
+    print("  args:", self.args)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 44, in __repr__
+    return f"<{self.__class__.__name__} {self}>"
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/prior_model.py", line 29, in __str__
+    prior_string = ", ".join(map(str, self.prior_tuples))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 739, in prior_tuples
+    return self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 249, in attribute_tuples_with_type
+    return [
+TypeError: 'RecursionPromise' object is not iterable
+2021-09-13 17:18:30,597 - process 4 - ERROR - 'RecursionPromise' object is not iterable
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 939, in __call__
+    return self.func(x, *self.args, **self.kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/nest/dynesty/abstract.py", line 18, in prior_transform
+    phys_cube = model.vector_from_unit_vector(unit_vector=cube)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 289, in vector_from_unit_vector
+    self.prior_tuples_ordered_by_id,
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 272, in prior_tuples_ordered_by_id
+    list(self.unique_prior_tuples), key=lambda prior_tuple: prior_tuple.prior.id
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 259, in unique_prior_tuples
+    for prior_tuple in self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 251, in attribute_tuples_with_type
+    for t in self.path_instance_tuples_for_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 201, in path_instance_tuples_for_class
+    return path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 84, in wrapper
+    result = replace_promise(recursion_promise, result, result)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 28, in replace_promise
+    seen_objects = seen_objects or set()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 154, in run
+    job.perform(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 121, in perform
+    return self.function(
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/sampling.py", line 89, in sample_unif
+    v = prior_transform(np.array(u))
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 944, in __call__
+    print("  args:", self.args)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 44, in __repr__
+    return f"<{self.__class__.__name__} {self}>"
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/prior_model.py", line 29, in __str__
+    prior_string = ", ".join(map(str, self.prior_tuples))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 739, in prior_tuples
+    return self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 249, in attribute_tuples_with_type
+    return [
+TypeError: 'RecursionPromise' object is not iterable
+2021-09-13 17:18:30,597 - process 0 - ERROR - 'RecursionPromise' object is not iterable
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 939, in __call__
+    return self.func(x, *self.args, **self.kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/nest/dynesty/abstract.py", line 18, in prior_transform
+    phys_cube = model.vector_from_unit_vector(unit_vector=cube)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 289, in vector_from_unit_vector
+    self.prior_tuples_ordered_by_id,
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 272, in prior_tuples_ordered_by_id
+    list(self.unique_prior_tuples), key=lambda prior_tuple: prior_tuple.prior.id
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 259, in unique_prior_tuples
+    for prior_tuple in self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 251, in attribute_tuples_with_type
+    for t in self.path_instance_tuples_for_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 201, in path_instance_tuples_for_class
+    return path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 293, in path_instances_of_class
+    for item in path_instances_of_class(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/recursion.py", line 83, in wrapper
+    result = func(item, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 283, in path_instances_of_class
+    from autofit.mapper.prior_model.annotation import AnnotationPriorModel
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 154, in run
+    job.perform(
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/non_linear/parallel/sneaky.py", line 121, in perform
+    return self.function(
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/sampling.py", line 89, in sample_unif
+    v = prior_transform(np.array(u))
+  File "/home/joao/.local/lib/python3.8/site-packages/dynesty/dynesty.py", line 944, in __call__
+    print("  args:", self.args)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 44, in __repr__
+    return f"<{self.__class__.__name__} {self}>"
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/collection.py", line 41, in __str__
+    return ", ".join(map(str, self))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/prior_model.py", line 29, in __str__
+    prior_string = ", ".join(map(str, self.prior_tuples))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/attribute_pair.py", line 8, in wrapper
+    return list(map(lambda tup: named_tuple(*tup), func(*args, **kwargs)))
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/prior_model/abstract.py", line 739, in prior_tuples
+    return self.attribute_tuples_with_type(Prior)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 45, in cache
+    return func(self, *args, **kwargs)
+  File "/home/joao/.local/lib/python3.8/site-packages/autofit/mapper/model.py", line 249, in attribute_tuples_with_type
+    return [
+TypeError: 'RecursionPromise' object is not iterable
+2021-09-13 17:19:10,730 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-13 17:19:10,816 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-13 17:19:10,874 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-13 17:19:13,807 - sys_1_dist - INFO - Creating search
+2021-09-13 17:19:13,808 - sys_1_dist - INFO - Starting search
+2021-09-13 17:19:14,554 - sys_1_dist - INFO - Already completed, skipping non-linear search.
+2021-09-13 17:19:14,586 - sys_1_dist - INFO - Removing zip file
+2021-09-13 17:19:18,612 - sys_2_dist - INFO - Creating search
+2021-09-13 17:19:18,614 - sys_2_dist - INFO - Starting search
+2021-09-13 17:19:19,423 - sys_2_dist - INFO - Already completed, skipping non-linear search.
+2021-09-13 17:19:19,484 - sys_2_dist - INFO - Removing zip file
+2021-09-13 17:19:27,094 - sys_3_dist - INFO - Creating search
+2021-09-13 17:19:27,095 - sys_3_dist - INFO - Starting search
+2021-09-13 17:19:27,572 - sys_3_dist - INFO - Already completed, skipping non-linear search.
+2021-09-13 17:19:27,611 - sys_3_dist - INFO - Removing zip file
+2021-09-13 17:19:33,330 - sys_4_dist - INFO - Creating search
+2021-09-13 17:19:33,331 - sys_4_dist - INFO - Starting search
+2021-09-13 17:19:33,332 - sys_4_dist - INFO - Saving path info
+2021-09-13 17:19:33,363 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 17:19:33,364 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-13 17:19:33,364 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 17:19:33,366 - process 0 - INFO - created
+2021-09-13 17:19:33,367 - process 1 - INFO - created
+2021-09-13 17:19:33,410 - process 2 - INFO - created
+2021-09-13 17:19:33,411 - process 3 - INFO - created
+2021-09-13 17:19:33,412 - process 4 - INFO - created
+2021-09-13 17:19:33,413 - process 5 - INFO - created
+2021-09-13 17:19:33,493 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 17:19:34,008 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 17:20:15,220 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:21:05,334 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:22:02,077 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:23:22,403 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:24:09,930 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:24:50,043 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:25:32,060 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:26:01,178 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:26:14,667 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:26:27,781 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:27:16,461 - sys_4_dist - INFO - Removing zip file
+2021-09-13 17:27:36,240 - sys_4_dist - INFO - Creating search
+2021-09-13 17:27:36,243 - sys_4_dist - INFO - Starting search
+2021-09-13 17:27:36,245 - sys_4_dist - INFO - Saving path info
+2021-09-13 17:27:36,280 - sys_4_dist - INFO - Not complete. Starting non-linear search.
+2021-09-13 17:27:36,281 - sys_4_dist - INFO - number_of_cores == 6...
+2021-09-13 17:27:36,282 - sys_4_dist - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-13 17:27:36,283 - process 0 - INFO - created
+2021-09-13 17:27:36,284 - process 1 - INFO - created
+2021-09-13 17:27:36,285 - process 2 - INFO - created
+2021-09-13 17:27:36,287 - process 3 - INFO - created
+2021-09-13 17:27:36,288 - process 4 - INFO - created
+2021-09-13 17:27:36,289 - process 5 - INFO - created
+2021-09-13 17:27:36,432 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-13 17:27:37,811 - sys_4_dist - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-13 17:28:15,398 - sys_4_dist - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:29:03,473 - sys_4_dist - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:29:50,468 - sys_4_dist - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:30:39,334 - sys_4_dist - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:31:23,978 - sys_4_dist - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:32:10,487 - sys_4_dist - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:32:47,569 - sys_4_dist - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:33:34,985 - sys_4_dist - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:34:24,926 - sys_4_dist - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:35:11,306 - sys_4_dist - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:35:58,079 - sys_4_dist - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:36:49,794 - sys_4_dist - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:37:58,287 - sys_4_dist - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:38:49,193 - sys_4_dist - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:39:45,898 - sys_4_dist - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:40:43,511 - sys_4_dist - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:41:32,781 - sys_4_dist - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:42:37,201 - sys_4_dist - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:43:31,818 - sys_4_dist - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:44:06,293 - sys_4_dist - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:44:29,695 - sys_4_dist - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-13 17:45:48,542 - sys_4_dist - INFO - Removing zip file
+2021-09-14 22:02:10,710 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-09-14 22:02:11,599 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-09-14 22:02:11,848 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-09-14 22:28:19,022 - sys_1_dist_step1 - INFO - Creating search
+2021-09-14 22:28:19,023 - sys_1_dist_step1 - INFO - Starting search
+2021-09-14 22:28:19,026 - sys_1_dist_step1 - INFO - Saving path info
+2021-09-14 22:28:19,063 - sys_1_dist_step1 - INFO - Not complete. Starting non-linear search.
+2021-09-14 22:28:19,064 - sys_1_dist_step1 - INFO - number_of_cores == 6...
+2021-09-14 22:28:19,065 - sys_1_dist_step1 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-14 22:28:19,066 - process 0 - INFO - created
+2021-09-14 22:28:19,067 - process 1 - INFO - created
+2021-09-14 22:28:19,068 - process 2 - INFO - created
+2021-09-14 22:28:19,069 - process 3 - INFO - created
+2021-09-14 22:28:19,070 - process 4 - INFO - created
+2021-09-14 22:28:19,071 - process 5 - INFO - created
+2021-09-14 22:28:19,191 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-14 22:28:19,841 - sys_1_dist_step1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-14 22:29:03,315 - sys_1_dist_step1 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:29:25,997 - sys_1_dist_step1 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:29:35,670 - sys_1_dist_step1 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:29:45,029 - sys_1_dist_step1 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:30:24,912 - sys_1_dist_step1 - INFO - Removing zip file
+2021-09-14 22:31:20,714 - sys_1_dist_step1 - INFO - Creating search
+2021-09-14 22:31:20,715 - sys_1_dist_step1 - INFO - Starting search
+2021-09-14 22:31:20,718 - sys_1_dist_step1 - INFO - Saving path info
+2021-09-14 22:31:20,765 - sys_1_dist_step1 - INFO - Not complete. Starting non-linear search.
+2021-09-14 22:31:20,766 - sys_1_dist_step1 - INFO - number_of_cores == 6...
+2021-09-14 22:31:20,767 - sys_1_dist_step1 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-14 22:31:20,768 - process 0 - INFO - created
+2021-09-14 22:31:20,769 - process 1 - INFO - created
+2021-09-14 22:31:20,769 - process 2 - INFO - created
+2021-09-14 22:31:20,770 - process 3 - INFO - created
+2021-09-14 22:31:20,771 - process 4 - INFO - created
+2021-09-14 22:31:20,772 - process 5 - INFO - created
+2021-09-14 22:31:20,838 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-14 22:31:22,291 - sys_1_dist_step1 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-14 22:31:59,495 - sys_1_dist_step1 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:32:55,110 - sys_1_dist_step1 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:33:43,242 - sys_1_dist_step1 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:34:31,826 - sys_1_dist_step1 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:35:19,667 - sys_1_dist_step1 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:36:07,399 - sys_1_dist_step1 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:36:51,763 - sys_1_dist_step1 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:37:35,906 - sys_1_dist_step1 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:38:24,084 - sys_1_dist_step1 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:39:12,770 - sys_1_dist_step1 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:40:01,446 - sys_1_dist_step1 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:40:18,330 - sys_1_dist_step1 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:40:34,884 - sys_1_dist_step1 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:40:48,571 - sys_1_dist_step1 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:41:36,546 - sys_1_dist_step1 - INFO - Removing zip file
+2021-09-14 22:49:52,741 - sys_1_dist_step2 - INFO - Creating search
+2021-09-14 22:49:52,743 - sys_1_dist_step2 - INFO - Starting search
+2021-09-14 22:49:52,745 - sys_1_dist_step2 - INFO - Saving path info
+2021-09-14 22:49:52,780 - sys_1_dist_step2 - INFO - Not complete. Starting non-linear search.
+2021-09-14 22:49:52,781 - sys_1_dist_step2 - INFO - number_of_cores == 6...
+2021-09-14 22:49:52,782 - sys_1_dist_step2 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-14 22:49:52,782 - process 0 - INFO - created
+2021-09-14 22:49:52,783 - process 1 - INFO - created
+2021-09-14 22:49:52,784 - process 2 - INFO - created
+2021-09-14 22:49:52,784 - process 3 - INFO - created
+2021-09-14 22:49:52,785 - process 4 - INFO - created
+2021-09-14 22:49:52,786 - process 5 - INFO - created
+2021-09-14 22:49:52,904 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-14 22:49:53,374 - sys_1_dist_step2 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-14 22:50:40,938 - sys_1_dist_step2 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:51:11,464 - sys_1_dist_step2 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:51:22,900 - sys_1_dist_step2 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:51:33,493 - sys_1_dist_step2 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:52:21,230 - sys_1_dist_step2 - INFO - Removing zip file
+2021-09-14 22:53:04,449 - sys_1_dist_step2 - INFO - Creating search
+2021-09-14 22:53:04,456 - sys_1_dist_step2 - INFO - Starting search
+2021-09-14 22:53:04,464 - sys_1_dist_step2 - INFO - Saving path info
+2021-09-14 22:53:04,503 - sys_1_dist_step2 - INFO - Not complete. Starting non-linear search.
+2021-09-14 22:53:04,504 - sys_1_dist_step2 - INFO - number_of_cores == 6...
+2021-09-14 22:53:04,505 - sys_1_dist_step2 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-14 22:53:04,506 - process 0 - INFO - created
+2021-09-14 22:53:04,507 - process 1 - INFO - created
+2021-09-14 22:53:04,509 - process 2 - INFO - created
+2021-09-14 22:53:04,511 - process 3 - INFO - created
+2021-09-14 22:53:04,512 - process 4 - INFO - created
+2021-09-14 22:53:04,513 - process 5 - INFO - created
+2021-09-14 22:53:04,640 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-14 22:53:06,084 - sys_1_dist_step2 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-14 22:53:48,824 - sys_1_dist_step2 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:54:33,770 - sys_1_dist_step2 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:55:22,218 - sys_1_dist_step2 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:55:53,654 - sys_1_dist_step2 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:56:06,641 - sys_1_dist_step2 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:56:17,606 - sys_1_dist_step2 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:56:59,072 - sys_1_dist_step2 - INFO - Removing zip file
+2021-09-14 22:57:19,089 - sys_1_dist_step2 - INFO - Creating search
+2021-09-14 22:57:19,096 - sys_1_dist_step2 - INFO - Starting search
+2021-09-14 22:57:19,098 - sys_1_dist_step2 - INFO - Saving path info
+2021-09-14 22:57:19,138 - sys_1_dist_step2 - INFO - Not complete. Starting non-linear search.
+2021-09-14 22:57:19,138 - sys_1_dist_step2 - INFO - number_of_cores == 6...
+2021-09-14 22:57:19,139 - sys_1_dist_step2 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-09-14 22:57:19,140 - process 0 - INFO - created
+2021-09-14 22:57:19,141 - process 1 - INFO - created
+2021-09-14 22:57:19,141 - process 2 - INFO - created
+2021-09-14 22:57:19,142 - process 3 - INFO - created
+2021-09-14 22:57:19,143 - process 4 - INFO - created
+2021-09-14 22:57:19,144 - process 5 - INFO - created
+2021-09-14 22:57:19,288 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-09-14 22:57:20,236 - sys_1_dist_step2 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-09-14 22:57:59,113 - sys_1_dist_step2 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:58:40,304 - sys_1_dist_step2 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 22:59:25,602 - sys_1_dist_step2 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:00:06,662 - sys_1_dist_step2 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:00:50,309 - sys_1_dist_step2 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:01:32,418 - sys_1_dist_step2 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:02:14,570 - sys_1_dist_step2 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:03:00,382 - sys_1_dist_step2 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:03:21,718 - sys_1_dist_step2 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:03:41,432 - sys_1_dist_step2 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:03:57,838 - sys_1_dist_step2 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-09-14 23:04:45,080 - sys_1_dist_step2 - INFO - Removing zip file
