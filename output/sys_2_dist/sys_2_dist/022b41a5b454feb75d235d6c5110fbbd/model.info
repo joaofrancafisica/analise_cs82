@@ -1,5 +1,13 @@
 Total Free Parameters = 17 
 
+model                                                                                     CollectionPriorModel (N=17)
+    galaxies                                                                              CollectionPriorModel (N=17)
+        lens                                                                              Galaxy (N=11)
+            bulge                                                                         EllDevVaucouleurs (N=6)
+            mass                                                                          EllIsothermal (N=5)
+        source                                                                            Galaxy (N=6)
+            disk                                                                          EllExponential (N=6) 
+
 galaxies
     lens
         redshift                                                                          0.53
