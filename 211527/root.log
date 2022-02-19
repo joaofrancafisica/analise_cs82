@@ -1,0 +1,213 @@
+2022-01-29 18:48:12,180 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 18:48:12,326 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 18:50:40,826 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-29 18:50:40,835 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-29 19:05:59,801 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 19:05:59,909 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 19:06:02,044 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-29 19:06:02,046 - root - INFO - Starting search
+2022-01-29 19:06:02,052 - root - INFO - Saving path info
+2022-01-29 19:06:02,127 - root - INFO - Not complete. Starting non-linear search.
+2022-01-29 19:06:02,128 - root - INFO - number_of_cores == 5...
+2022-01-29 19:06:02,129 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-29 19:06:02,140 - process 0 - INFO - created
+2022-01-29 19:06:02,155 - process 1 - INFO - created
+2022-01-29 19:06:02,175 - process 2 - INFO - created
+2022-01-29 19:06:02,196 - process 3 - INFO - created
+2022-01-29 19:06:02,215 - process 4 - INFO - created
+2022-01-29 19:06:02,412 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-29 19:06:04,207 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-29 19:06:30,089 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:07:30,360 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:08:21,119 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:09:23,474 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:10:22,258 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:11:07,590 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:12:12,055 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:13:17,656 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:14:19,920 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:14:42,698 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:15:06,801 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:15:27,914 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:16:30,056 - root - INFO - Removing zip file
+2022-01-29 19:33:35,371 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-29 19:33:35,380 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-29 19:33:50,865 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-29 19:33:51,522 - 211527_ds9 - INFO - Starting search
+2022-01-29 19:33:51,528 - 211527_ds9 - INFO - Saving path info
+2022-01-29 19:33:51,558 - 211527_ds9 - INFO - Not complete. Starting non-linear search.
+2022-01-29 19:33:51,560 - 211527_ds9 - INFO - number_of_cores == 5...
+2022-01-29 19:33:51,561 - 211527_ds9 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-29 19:33:51,570 - process 0 - INFO - created
+2022-01-29 19:33:51,585 - process 1 - INFO - created
+2022-01-29 19:33:51,604 - process 2 - INFO - created
+2022-01-29 19:33:51,621 - process 3 - INFO - created
+2022-01-29 19:33:51,639 - process 4 - INFO - created
+2022-01-29 19:33:52,231 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-29 19:33:53,021 - 211527_ds9 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-29 19:36:16,970 - 211527_ds9 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:36:52,863 - 211527_ds9 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:36:53,520 - 211527_ds9 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:36:53,959 - 211527_ds9 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:37:04,045 - 211527_ds9 - INFO - Removing zip file
+2022-01-29 19:37:04,169 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-29 19:37:04,177 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-29 19:37:04,469 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-29 19:37:04,478 - 2115279_bary - INFO - Starting search
+2022-01-29 19:37:04,485 - 2115279_bary - INFO - Saving path info
+2022-01-29 19:37:04,524 - 2115279_bary - INFO - Not complete. Starting non-linear search.
+2022-01-29 19:37:04,528 - 2115279_bary - INFO - number_of_cores == 5...
+2022-01-29 19:37:04,529 - 2115279_bary - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-29 19:37:04,540 - process 0 - INFO - created
+2022-01-29 19:37:04,562 - process 1 - INFO - created
+2022-01-29 19:37:04,582 - process 2 - INFO - created
+2022-01-29 19:37:04,603 - process 3 - INFO - created
+2022-01-29 19:37:04,623 - process 4 - INFO - created
+2022-01-29 19:37:05,225 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-29 19:37:05,997 - 2115279_bary - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-29 19:39:12,849 - 2115279_bary - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:40:40,702 - 2115279_bary - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:40:41,558 - 2115279_bary - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:40:42,136 - 2115279_bary - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:40:57,187 - 2115279_bary - INFO - Removing zip file
+2022-01-29 19:40:57,337 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-29 19:40:57,345 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-29 19:40:57,676 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-29 19:40:57,686 - 211527_peak - INFO - Starting search
+2022-01-29 19:40:57,694 - 211527_peak - INFO - Saving path info
+2022-01-29 19:40:57,732 - 211527_peak - INFO - Not complete. Starting non-linear search.
+2022-01-29 19:40:57,735 - 211527_peak - INFO - number_of_cores == 5...
+2022-01-29 19:40:57,736 - 211527_peak - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-29 19:40:57,748 - process 0 - INFO - created
+2022-01-29 19:40:57,768 - process 1 - INFO - created
+2022-01-29 19:40:57,787 - process 2 - INFO - created
+2022-01-29 19:40:57,808 - process 3 - INFO - created
+2022-01-29 19:40:57,831 - process 4 - INFO - created
+2022-01-29 19:40:58,411 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-29 19:40:59,213 - 211527_peak - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-29 19:42:52,376 - 211527_peak - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:43:53,488 - 211527_peak - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:43:54,215 - 211527_peak - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:43:54,755 - 211527_peak - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-29 19:44:08,772 - 211527_peak - INFO - Removing zip file
+2022-01-29 19:46:06,263 - lenstronomy.Sampling.Pool.pool - INFO - Running with SerialPool
+2022-01-29 19:59:28,788 - lenstronomy.Sampling.Pool.pool - INFO - Running with SerialPool
+2022-01-29 19:59:35,445 - lenstronomy.Sampling.Pool.pool - INFO - Running with SerialPool
+2022-01-29 19:59:42,348 - lenstronomy.Sampling.Pool.pool - INFO - Running with SerialPool
+2022-01-29 20:02:53,018 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 20:02:53,168 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 20:04:53,345 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 20:04:53,520 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 20:06:26,724 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 20:06:26,891 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 20:07:46,969 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 20:07:47,112 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-29 20:15:34,072 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-29 20:15:34,206 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-31 14:58:10,299 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-31 14:58:10,407 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-31 14:58:55,959 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-31 14:58:56,070 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-31 15:05:07,673 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-31 15:05:07,825 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-31 21:42:01,569 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-31 21:42:01,924 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-01-31 21:42:05,816 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-31 21:42:05,818 - root - INFO - Starting search
+2022-01-31 21:42:05,826 - root - INFO - Saving path info
+2022-01-31 21:42:05,946 - root - INFO - Not complete. Starting non-linear search.
+2022-01-31 21:42:05,951 - root - INFO - number_of_cores == 5...
+2022-01-31 21:42:05,956 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-31 21:42:05,978 - process 0 - INFO - created
+2022-01-31 21:42:06,014 - process 1 - INFO - created
+2022-01-31 21:42:06,052 - process 2 - INFO - created
+2022-01-31 21:42:06,091 - process 3 - INFO - created
+2022-01-31 21:42:06,127 - process 4 - INFO - created
+2022-01-31 21:42:06,514 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-31 21:42:12,298 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-31 21:43:01,752 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:44:31,531 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:45:48,861 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:47:07,660 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:48:36,235 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:50:10,753 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:51:34,219 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:52:57,853 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:54:24,759 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:55:59,020 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:57:08,521 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:57:50,310 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 21:58:22,727 - root - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:00:15,844 - root - INFO - Removing zip file
+2022-01-31 22:00:21,917 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-31 22:00:21,922 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-31 22:00:22,414 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-31 22:00:22,422 - 211527_ds9 - INFO - Starting search
+2022-01-31 22:00:22,429 - 211527_ds9 - INFO - Saving path info
+2022-01-31 22:00:22,491 - 211527_ds9 - INFO - Not complete. Starting non-linear search.
+2022-01-31 22:00:22,493 - 211527_ds9 - INFO - number_of_cores == 5...
+2022-01-31 22:00:22,494 - 211527_ds9 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-31 22:00:22,506 - process 0 - INFO - created
+2022-01-31 22:00:22,530 - process 1 - INFO - created
+2022-01-31 22:00:22,554 - process 2 - INFO - created
+2022-01-31 22:00:22,579 - process 3 - INFO - created
+2022-01-31 22:00:22,599 - process 4 - INFO - created
+2022-01-31 22:00:23,546 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-31 22:00:25,131 - 211527_ds9 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-31 22:05:35,104 - 211527_ds9 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:07:53,523 - 211527_ds9 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:07:55,276 - 211527_ds9 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:07:56,548 - 211527_ds9 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:08:10,224 - 211527_ds9 - INFO - Removing zip file
+2022-01-31 22:08:10,377 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-31 22:08:10,384 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-31 22:08:10,724 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-31 22:08:10,742 - 2115279_bary - INFO - Starting search
+2022-01-31 22:08:10,757 - 2115279_bary - INFO - Saving path info
+2022-01-31 22:08:10,828 - 2115279_bary - INFO - Not complete. Starting non-linear search.
+2022-01-31 22:08:10,833 - 2115279_bary - INFO - number_of_cores == 5...
+2022-01-31 22:08:10,834 - 2115279_bary - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-31 22:08:10,871 - process 0 - INFO - created
+2022-01-31 22:08:10,927 - process 1 - INFO - created
+2022-01-31 22:08:10,983 - process 2 - INFO - created
+2022-01-31 22:08:11,089 - process 3 - INFO - created
+2022-01-31 22:08:11,234 - process 4 - INFO - created
+2022-01-31 22:08:12,531 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-31 22:08:14,915 - 2115279_bary - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-31 22:13:09,341 - 2115279_bary - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:18:42,677 - 2115279_bary - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:21:25,267 - 2115279_bary - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:21:26,380 - 2115279_bary - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:21:34,793 - 2115279_bary - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:21:56,286 - 2115279_bary - INFO - Removing zip file
+2022-01-31 22:21:56,534 - astropy - WARNING - FITSFixedWarning: RADECSYS= 'ICRS ' / Astrometric system 
+the RADECSYS keyword is deprecated, use RADESYSa.
+2022-01-31 22:21:56,551 - astropy - WARNING - FITSFixedWarning: 'datfix' made the change 'Set MJD-END to 55446.000000 from DATE-END'.
+2022-01-31 22:21:56,896 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-01-31 22:21:56,903 - 211527_peak - INFO - Starting search
+2022-01-31 22:21:56,907 - 211527_peak - INFO - Saving path info
+2022-01-31 22:21:56,937 - 211527_peak - INFO - Not complete. Starting non-linear search.
+2022-01-31 22:21:56,939 - 211527_peak - INFO - number_of_cores == 5...
+2022-01-31 22:21:56,940 - 211527_peak - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-01-31 22:21:56,950 - process 0 - INFO - created
+2022-01-31 22:21:56,965 - process 1 - INFO - created
+2022-01-31 22:21:56,980 - process 2 - INFO - created
+2022-01-31 22:21:56,998 - process 3 - INFO - created
+2022-01-31 22:21:57,016 - process 4 - INFO - created
+2022-01-31 22:21:57,591 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-01-31 22:21:58,375 - 211527_peak - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-01-31 22:25:08,275 - 211527_peak - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:26:15,233 - 211527_peak - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:26:17,966 - 211527_peak - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:26:19,459 - 211527_peak - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-01-31 22:26:44,110 - 211527_peak - INFO - Removing zip file
+2022-01-31 22:45:06,948 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-01-31 22:45:07,073 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2022-02-03 17:14:58,884 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2022-02-03 17:14:58,990 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config

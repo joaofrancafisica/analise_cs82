@@ -1,0 +1,74 @@
+Bayesian Evidence                                                                         -16.04805535
+Maximum Log Likelihood                                                                    4.96223422
+Maximum Log Posterior                                                                     8.31324404
+
+model                                                                                     CollectionPriorModel (N=7)
+    galaxies                                                                              CollectionPriorModel (N=7)
+        lens                                                                              Galaxy (N=5)
+            mass                                                                          EllIsothermal (N=5)
+        source                                                                            Galaxy (N=2)
+            point_0                                                                       Point (N=2)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    lens
+        mass
+            centre
+                centre_0                                                                  -0.180
+                centre_1                                                                  -0.119
+            elliptical_comps
+                elliptical_comps_0                                                        0.085
+                elliptical_comps_1                                                        -0.019
+            einstein_radius                                                               2.250
+    source
+        point_0
+            centre
+                centre_0                                                                  -0.239
+                centre_1                                                                  -0.032
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    lens
+        mass
+            centre
+                centre_0                                                                  -0.1646 (-0.3219, -0.0815)
+                centre_1                                                                  -0.1187 (-0.1802, 0.0206)
+            elliptical_comps
+                elliptical_comps_0                                                        0.0724 (-0.0067, 0.1376)
+                elliptical_comps_1                                                        -0.0219 (-0.0461, 0.0337)
+            einstein_radius                                                               2.2424 (2.2007, 2.3015)
+    source
+        point_0
+            centre
+                centre_0                                                                  -0.2257 (-0.2911, -0.1695)
+                centre_1                                                                  -0.0413 (-0.0855, 0.0425)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    lens
+        mass
+            centre
+                centre_0                                                                  -0.1646 (-0.2180, -0.1309)
+                centre_1                                                                  -0.1187 (-0.1498, -0.0633)
+            elliptical_comps
+                elliptical_comps_0                                                        0.0724 (0.0330, 0.0963)
+                elliptical_comps_1                                                        -0.0219 (-0.0287, 0.0008)
+            einstein_radius                                                               2.2424 (2.2329, 2.2643)
+    source
+        point_0
+            centre
+                centre_0                                                                  -0.2257 (-0.2598, -0.2112)
+                centre_1                                                                  -0.0413 (-0.0617, -0.0221)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.59
+    source
+        redshift                                                                          1.0

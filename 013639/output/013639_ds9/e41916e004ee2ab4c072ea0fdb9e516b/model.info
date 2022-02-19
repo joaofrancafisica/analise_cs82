@@ -1,0 +1,26 @@
+Total Free Parameters = 7 
+
+model                                                                                     CollectionPriorModel (N=7)
+    galaxies                                                                              CollectionPriorModel (N=7)
+        lens                                                                              Galaxy (N=5)
+            mass                                                                          EllIsothermal (N=5)
+        source                                                                            Galaxy (N=2)
+            point_0                                                                       Point (N=2) 
+
+galaxies
+    lens
+        redshift                                                                          0.344
+        mass
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.0, sigma = 0.1
+                centre_1                                                                  GaussianPrior, mean = 0.0, sigma = 0.1
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.0, sigma = 0.3
+                elliptical_comps_1                                                        GaussianPrior, mean = 0.0, sigma = 0.3
+            einstein_radius                                                               UniformPrior, lower_limit = 0.0, upper_limit = 8.0
+    source
+        redshift                                                                          1.0
+        point_0
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.0, sigma = 0.3
+                centre_1                                                                  GaussianPrior, mean = 0.0, sigma = 0.3
